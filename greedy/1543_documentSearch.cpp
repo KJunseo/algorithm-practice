@@ -6,6 +6,8 @@
     document와 pattern을 비교하면서,
     같으면 다음 문자로 넘어가고, 패턴의 끝까지 동일하면 카운트해주었다.
     같지 않으면, pattern을 검사하는 index를 'precix==suffix' 테이블 값으로 바꿔주어 중간단계를 뛰어넘어준다.
+
+    **그리디로 풀려면 처음부터 비교해가면서 일치하면, document의 index를 일치한 다음으로 바꿔주어 계속 검색해가면 되는 문제인 것 같지만, kmp로 풀어보았다.
 */
 #include <stdio.h>
 #include <iostream>
