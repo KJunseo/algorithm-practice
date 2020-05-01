@@ -2,6 +2,7 @@
     이 문제는 정말로 문제가 설명하는 순서대로 구현만 하면 되는 문제였다.
     file을 하나로 관리하기 위해 구조체를 만들어 파일명을 분리시켜서 저장하였다.
 
+    * 일반 sort를 쓰면 안된다는 데 왜 통과가 되는지 모르겠다.
 */
 #include <string>
 #include <vector>
@@ -17,7 +18,7 @@ struct fileName {
     string tail;
 };
 
-bool compare(fileName &a, fileName &b) {
+bool compare(const fileName &a, const fileName &b) {
     if(a.head<b.head) return true; // head 사전순 
     else if(a.head==b.head) {
         if(a.number<b.number) return true; // 숫자 오름차순 
@@ -66,7 +67,8 @@ vector<string> solution(vector<string> files) {
         result.push_back(temp);
     }
     
-    sort(result.begin(), result.end(), compare);
+    stable_sort(result.begin(), result.end(), compare);
+    // sort(result.begin(), result.end(), compare);
     
     // 원래 파일명의 값을 그대로 넣어주기 위해 구조체의 index사용
     for(int i=0;i<files.size();i++) 
