@@ -58,9 +58,7 @@ int main(void) {
     }
 
     for(int i=0;i<land.size();i++) {
-        for(int j=0;j<R;j++) {
-            memset(visit[j], 0, sizeof(visit[j]));
-        }
+        memset(visit, 0, sizeof(visit));
         bfs(land[i].first, land[i].second);
     }
 
