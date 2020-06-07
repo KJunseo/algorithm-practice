@@ -19,6 +19,7 @@ int dx[]={0, 0, -1, 1};
 queue<pair<int, int> > m_q;
 queue<pair<int, int> > w_q;
 
+// 물이 범람하는 경우 
 void w_bfs() {
 
     while(!w_q.empty()) {
@@ -29,11 +30,11 @@ void w_bfs() {
             int ny=cur.first+dy[i];
             int nx=cur.second+dx[i];
 
-            if(ny<0 || nx<0 || ny>=R || nx>=C) continue;
+            if(ny<0 || nx<0 || ny>=R || nx>=C) continue; // 맵을 벗어나거나 
 
-            if(w_visit[ny][nx]) continue;
+            if(w_visit[ny][nx]) continue; // 이미 방문했거나
 
-            if(water[ny][nx]=='X' || water[ny][nx]=='*' || water[ny][nx]=='D') continue;
+            if(water[ny][nx]=='X' || water[ny][nx]=='*' || water[ny][nx]=='D') continue; // 돌이나, 이미 물이거나, 비버소굴이면 
 
             w_visit[ny][nx]=w_visit[cur.first][cur.second]+1;
             w_q.push(make_pair(ny, nx));
@@ -41,6 +42,7 @@ void w_bfs() {
     }
 }
 
+// 고슴도치가 이동하는 경우
 void m_bfs() {
 
     while(!m_q.empty()) {
@@ -56,14 +58,14 @@ void m_bfs() {
             int ny=cur.first+dy[i];
             int nx=cur.second+dx[i];
 
-            if(ny<0 || nx<0 || ny>=R || nx>=C) continue;
+            if(ny<0 || nx<0 || ny>=R || nx>=C) continue; // 맵을 벗어나거나
 
-            if(m_visit[ny][nx]) continue;
+            if(m_visit[ny][nx]) continue; // 이미 방문했거나
 
-            if(map[ny][nx]=='X' || map[ny][nx]=='*') continue;
+            if(map[ny][nx]=='X' || map[ny][nx]=='*') continue; // 돌이나 물이거나 
 
             m_visit[ny][nx]=m_visit[cur.first][cur.second]+1;
-            if(map[ny][nx]!='D' && w_visit[ny][nx]!=0 && w_visit[ny][nx]<=m_visit[ny][nx]) continue;
+            if(map[ny][nx]!='D' && w_visit[ny][nx]!=0 && w_visit[ny][nx]<=m_visit[ny][nx]) continue; // 도착지나 이미 물이 도착했거나
 
             m_q.push(make_pair(ny, nx));
         }
@@ -92,23 +94,7 @@ int main(void) {
 
     w_bfs();
 
-    printf("\n"); 
-    for(int i=0;i<R;i++) {
-        for(int j=0;j<C;j++) {
-            printf("%d", w_visit[i][j]);
-        }
-        printf("\n");
-    }
-
     m_bfs();
-
-    printf("\n"); 
-    for(int i=0;i<R;i++) {
-        for(int j=0;j<C;j++) {
-            printf("%d", m_visit[i][j]);
-        }
-        printf("\n");
-    }
 
     return 0;
 }
