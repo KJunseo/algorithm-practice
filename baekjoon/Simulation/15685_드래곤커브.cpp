@@ -23,12 +23,14 @@ int pattern[4][1<<10];
 
 // 각 방향별 패턴을 10세대까지 저장한다.
 void patternSetting() {
+    for(int i=0;i<4;i++) pattern[i][0]=i; // 각 방향 별 패턴의 첫 값은 자기 자신
+
     for(int k=0;k<4;k++) { // 각 방향(0, 1, 2, 3)
         for(int i=1;i<=10;i++) { // 각 세대(0세대 ~ 10세대) 어차피 다음 세대의 처음 반틈은 이전세대의 값과 동일하므로 배열에 이어서 저장하고, 사용할 때 끝지점을 달리해서 사용하면 된다.
             int start = 1<<(i-1); // 시작 지점 
             int end = 1<<i; // 끝 지점
             for(int j=start, l=1;j<end;j++, l+=2) { // l값을 이용하여 역방향 인덱스를 조정한다.
-                pattern[k][j]=pattern[k][j-l]+1 == 4 ? 0 : pattern[k][j-l]+1; // 만약 역방향 +1 값이 4라면 0으로 바꿔준다.
+                pattern[k][j]=(pattern[k][j-l]+1)%4; // 만약 역방향 +1 값이 4라면 0으로 바꿔준다.
             }
         }
     }
@@ -37,11 +39,6 @@ void patternSetting() {
 int main(void) {
 
     scanf("%d", &N);
-
-    // 각 방향 별 패턴의 첫 값은 자기 자신
-    for(int i=0;i<4;i++) {
-        pattern[i][0]=i;
-    }
 
     patternSetting();
 
