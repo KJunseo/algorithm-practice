@@ -1,0 +1,20 @@
+## 바킹독님 실전 알고리즘
+
+[바킹독님의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2) 커리큘럼을 따라가보며 코딩테스트 준비하기
+
+- 시작일: 2022.01.07
+- 언어: Java
+- [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+- 강의 듣고 관련 연습문제 3 ~ 5개 풀고 넘어가기(연습 문제 + 기본 문제✔)
+- 모든 강의 다 듣고 난 후, 남은 문제들 풀기
+- 한 문제에 1시간 이상 쓰지 않기
+
+### 문제 풀이 기록표
+> State
+> - Master: 한 번에 문제 풀이 완료. 다시 풀 필요 없음
+> - Accepted: 문제를 풀긴 했지만 찝찝한 경우. 1주일 뒤에 다시 풀기
+> - Fail: 문제를 못 풀어서 풀이를 참고한 경우. 다음날 다시 풀기
+
+| No | Problem | Difficult | State | First Solving Date | Next Solving Date |
+|:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 1 | - | - | - | - | - |
