@@ -27,3 +27,4 @@
 | 2 | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./기초코드작성요령/윤년_2753.java) | Bronze4 | Master | 2022.01.07 | - |
 | 3 | [대표값2](https://www.acmicpc.net/problem/2587) | [풀이](./기초코드작성요령/대표값2_2587.java) | Bronze2 | Master | 2022.01.07 | - |
 | 4 | [숫자](https://www.acmicpc.net/problem/10093) | [풀이](./기초코드작성요령/숫자_10093.java) | Bronze2 | Master | 2022.01.07 | - |
+| 5 | [카드 역배치](https://www.acmicpc.net/problem/10804) | [풀이](./기초코드작성요령/카드역배치_10804.java) | Bronze2 | Master | 2022.01.07 | - |
