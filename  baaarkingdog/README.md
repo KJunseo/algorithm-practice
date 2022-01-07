@@ -15,13 +15,12 @@
 ### 입력 값에 따른 허용 시간복잡도
 <img width="632" alt="스크린샷 2022-01-06 오후 4 21 50" src="https://user-images.githubusercontent.com/45876793/148344669-cceb9357-8b87-4c5b-a16b-a42a9f2f26b5.png">
 
-
 ### 문제 풀이 기록표
 > State
 > - Master: 한 번에 문제 풀이 완료. 다시 풀 필요 없음
 > - Accepted: 문제를 풀긴 했지만 찝찝한 경우. 1주일 뒤에 다시 풀기
 > - Fail: 문제를 못 풀어서 풀이를 참고한 경우. 다음날 다시 풀기
 
-| No | Problem | Difficult | State | First Solving Date | Next Solving Date |
-|:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 1 | - | - | - | - | - |
+| No | Problem | Explanation | Difficult | State | First Solving Date | Next Solving Date |
+|:------:|:---------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 1 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이](./기초코드작성요령/X보다작은수_10871.java) | Bronze3 | Master | 2022.01.07 | - |
