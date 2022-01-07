@@ -26,3 +26,4 @@
 | 1 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이](./기초코드작성요령/X보다작은수_10871.java) | Bronze3 | Master | 2022.01.07 | - |
 | 2 | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./기초코드작성요령/윤년_2753.java) | Bronze4 | Master | 2022.01.07 | - |
 | 3 | [대표값2](https://www.acmicpc.net/problem/2587) | [풀이](./기초코드작성요령/대표값2_2587.java) | Bronze2 | Master | 2022.01.07 | - |
+| 4 | [숫자](https://www.acmicpc.net/problem/10093) | [풀이](./기초코드작성요령/숫자_10093.java) | Bronze2 | Master | 2022.01.07 | - |
