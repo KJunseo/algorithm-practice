@@ -30,3 +30,4 @@
 | 5 | [카드 역배치](https://www.acmicpc.net/problem/10804) | [풀이](./기초코드작성요령/카드역배치_10804.java) | Bronze2 | Master | 2022.01.07 | - |
 | 6 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이](./기초코드작성요령/빠른AplusB_15552.java) | Bronze2 | Master | 2022.01.07 | - |
 | 7 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/알파벳개수_10808.java) | Bronze2 | Master | 2022.01.08 | - |
+| 8 | [숫자의 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/숫자의개수_2577.java) | Bronze2 | Master | 2022.01.08 | - |
