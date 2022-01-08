@@ -31,3 +31,4 @@
 | 6 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이](./기초코드작성요령/빠른AplusB_15552.java) | Bronze2 | Master | 2022.01.07 | - |
 | 7 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/알파벳개수_10808.java) | Bronze2 | Master | 2022.01.08 | - |
 | 8 | [숫자의 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/숫자의개수_2577.java) | Bronze2 | Master | 2022.01.08 | - |
+| 9 | [방 번호](https://www.acmicpc.net/problem/1475) | [풀이](./배열/방번호_1475.java) | Silver5 | Master | 2022.01.08 | - |
