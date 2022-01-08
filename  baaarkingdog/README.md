@@ -32,3 +32,4 @@
 | 7 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/알파벳개수_10808.java) | Bronze2 | Master | 2022.01.08 | - |
 | 8 | [숫자의 개수](https://www.acmicpc.net/problem/10808) | [풀이](./배열/숫자의개수_2577.java) | Bronze2 | Master | 2022.01.08 | - |
 | 9 | [방 번호](https://www.acmicpc.net/problem/1475) | [풀이](./배열/방번호_1475.java) | Silver5 | Master | 2022.01.08 | - |
+| 10 | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./배열/개수세기_10807.java) | Silver5 | Master | 2022.01.08 | - |
