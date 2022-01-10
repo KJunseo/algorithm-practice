@@ -36,3 +36,4 @@
 | 11 | [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./배열/두수의합_3273.java) | Silver3 | Master | 2022.01.08 | - |
 | 12 | [에디터](https://www.acmicpc.net/problem/1406) | [풀이](./연결리스트/에디터_1406.java) | Silver3 | Fail | 2022.01.10 | 2022.01.11 |
 | 13 | [키로거](https://www.acmicpc.net/problem/5397) | [풀이](./연결리스트/키로거_5397.java) | Silver3 | Master | 2022.01.10 | - |
+| 14 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](./연결리스트/요세푸스문제_1158.java) | Silver5 | Master | 2022.01.10 | - |
