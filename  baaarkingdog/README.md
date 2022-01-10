@@ -34,3 +34,4 @@
 | 9 | [방 번호](https://www.acmicpc.net/problem/1475) | [풀이](./배열/방번호_1475.java) | Silver5 | Master | 2022.01.08 | - |
 | 10 | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./배열/개수세기_10807.java) | Bronze2 | Master | 2022.01.08 | - |
 | 11 | [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./배열/두수의합_3273.java) | Silver3 | Master | 2022.01.08 | - |
+| 12 | [에디터](https://www.acmicpc.net/problem/1406) | [풀이](./연결리스트/에디터_1406.java) | Silver3 | Fail | 2022.01.10 | 2022.01.11 |
