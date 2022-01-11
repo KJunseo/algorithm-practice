@@ -19,7 +19,7 @@
 > State
 > - Master: 한 번에 문제 풀이 완료. 다시 풀 필요 없음
 > - Accepted: 문제를 풀긴 했지만 찝찝한 경우. 1주일 뒤에 다시 풀기
-> - Fail: 문제를 못 풀어서 풀이를 참고한 경우. 다음날 다시 풀기
+> - Fail: 문제를 못 풀어서 풀이를 참고한 경우. 다음날 다시 풀기(다시 풀어서 맞은 경우 문제 이름 앞에 * 표시)
 
 | No | Problem | Explanation | Difficult | State | First Solving Date | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -34,6 +34,6 @@
 | 9 | [방 번호](https://www.acmicpc.net/problem/1475) | [풀이](./배열/방번호_1475.java) | Silver5 | Master | 2022.01.08 | - |
 | 10 | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./배열/개수세기_10807.java) | Bronze2 | Master | 2022.01.08 | - |
 | 11 | [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./배열/두수의합_3273.java) | Silver3 | Master | 2022.01.08 | - |
-| 12 | [에디터](https://www.acmicpc.net/problem/1406) | [풀이](./연결리스트/에디터_1406.java) | Silver3 | Fail | 2022.01.10 | 2022.01.11 |
+| 12 | [*에디터](https://www.acmicpc.net/problem/1406) | [풀이](./연결리스트/에디터_1406.java) | Silver3 | Master | 2022.01.10 | 2022.01.11 |
 | 13 | [키로거](https://www.acmicpc.net/problem/5397) | [풀이](./연결리스트/키로거_5397.java) | Silver3 | Master | 2022.01.10 | - |
 | 14 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](./연결리스트/요세푸스문제_1158.java) | Silver5 | Master | 2022.01.10 | - |
