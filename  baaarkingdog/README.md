@@ -38,3 +38,4 @@
 | 13 | [키로거](https://www.acmicpc.net/problem/5397) | [풀이](./연결리스트/키로거_5397.java) | Silver3 | Master | 2022.01.10 | - |
 | 14 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](./연결리스트/요세푸스문제_1158.java) | Silver5 | Master | 2022.01.10 | - |
 | 15 | [스택](https://www.acmicpc.net/problem/10828) | [풀이](./스택/스택_10828.java) | Silver4 | Master | 2022.01.12 | - |
+| 16 | [제로](https://www.acmicpc.net/problem/10773) | [풀이](./스택/제로_10773.java) | Silver4 | Master | 2022.01.12 | - |
