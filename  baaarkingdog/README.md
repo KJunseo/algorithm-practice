@@ -40,3 +40,4 @@
 | 15 | [스택](https://www.acmicpc.net/problem/10828) | [풀이](./스택/스택_10828.java) | Silver4 | Master | 2022.01.12 | - |
 | 16 | [제로](https://www.acmicpc.net/problem/10773) | [풀이](./스택/제로_10773.java) | Silver4 | Master | 2022.01.12 | - |
 | 17 | [스택 수열](https://www.acmicpc.net/problem/1874) | [풀이](./스택/스택수열_1874.java) | Silver3 | Accepted | 2022.01.12 | 2022.01.19 |
+| 18 | [탑](https://www.acmicpc.net/problem/2493) | [풀이](./스택/탑_2493.java) | Gold5 | Master | 2022.01.12 | - |
