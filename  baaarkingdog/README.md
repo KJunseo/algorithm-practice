@@ -43,3 +43,4 @@
 | 18 | [탑](https://www.acmicpc.net/problem/2493) | [풀이](./스택/탑_2493.java) | Gold5 | Master | 2022.01.12 | - |
 | 19 | [*옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | [풀이](./스택/옥상정원꾸미기_6198.java) | Gold5 | Master | 2022.01.12 | 2022.01.13 |
 | 20 | [큐](https://www.acmicpc.net/problem/10845) | [풀이](./큐/큐_10845.java) | Silver4 | Master | 2022.01.13 | - |
+| 21 | [큐](https://www.acmicpc.net/problem/18258) | [풀이](./큐/큐2_18258.java) | Silver4 | Master | 2022.01.13 | - |
