@@ -47,4 +47,4 @@
 | 22 | [카드2](https://www.acmicpc.net/problem/2164) | [풀이](./큐/카드2_2164.java) | Silver4 | Master | 2022.01.13 | - |
 | 23 | [덱](https://www.acmicpc.net/problem/10866) | [풀이](./덱/덱_10866.java) | Silver4 | Master | 2022.01.13 | - |
 | 24 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [풀이](./덱/회전하는큐_1021.java) | Silver4 | Master | 2022.01.13 | - |
-| 25 | [AC](https://www.acmicpc.net/problem/5430) | [풀이](./덱/AC_5430.java) | Gold5 | Fail | 2022.01.13 | 2022.01.14 |
+| 25 | [*AC](https://www.acmicpc.net/problem/5430) | [풀이](./덱/AC_5430.java) | Gold5 | Master | 2022.01.13 | 2022.01.14 |
