@@ -16,10 +16,6 @@ public class 균형잡힌세상_4949 {
             for (int i = 0; i < sentence.length(); i++) {
                 char c = sentence.charAt(i);
 
-                if (canIgnoreLetter(c)) {
-                    continue;
-                }
-
                 if (c == '(' || c == '[') {
                     stack.add(c);
                 }
@@ -49,15 +45,5 @@ public class 균형잡힌세상_4949 {
                 System.out.println("no");
             }
         }
-    }
-
-    private static boolean canIgnoreLetter(char c) {
-        if ('a' <= c && c <= 'z') {
-            return true;
-        }
-        if ('A' <= c && c <= 'Z') {
-            return true;
-        }
-        return c == ' ' || c == '.';
     }
 }
