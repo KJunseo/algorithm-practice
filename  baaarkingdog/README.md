@@ -50,3 +50,4 @@
 | 25 | [*AC](https://www.acmicpc.net/problem/5430) | [풀이](./덱/AC_5430.java) | Gold5 | Master | 2022.01.13 | 2022.01.14 |
 | 26 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [풀이](./스택/균형잡힌세상_4949.java) | Silver4 | Master | 2022.01.14 | - |
 | 27 | [좋은 단어](https://www.acmicpc.net/problem/3986) | [풀이](./스택/좋은단어_3986.java) | Silver4 | Master | 2022.01.14 | - |
+| 28 | [괄호](https://www.acmicpc.net/problem/9012) | [풀이](./스택/괄호_9012.java) | Silver4 | Master | 2022.01.14 | - |
