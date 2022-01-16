@@ -53,3 +53,4 @@
 | 28 | [괄호](https://www.acmicpc.net/problem/9012) | [풀이](./스택/괄호_9012.java) | Silver4 | Master | 2022.01.14 | - |
 | 29 | [쇠막대기](https://www.acmicpc.net/problem/10799) | [풀이](./스택/쇠막대기_10799.java) | Silver3 | Master | 2022.01.15 | - |
 | 30 | [*괄호의 값](https://www.acmicpc.net/problem/2504) | [풀이](./스택/괄호의값_2504.java) | Silver2 | Master | 2022.01.15 | 2022.01.16 |
+| 31 | [그림](https://www.acmicpc.net/problem/1926) | [풀이](./BFS/그림_1926.java) | Silver1 | Master | 2022.01.16 | - |
