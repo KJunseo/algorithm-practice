@@ -12,4 +12,5 @@
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
 | 1 | 새로운 불면증 치료법 | samsungDX | - | 2022.01.18 |
 | 2 | 동아리실 관리하기 | samsungDX | - | 2022.01.18 |
-| 3 | [스택 수열](https://www.acmicpc.net/problem/1874) | 바킹독님 | Silver3 | 2022.01.19 |
+| 3 | [불](https://www.acmicpc.net/problem/4179) | 바킹독님 | Gold4 |  2022.01.18 |
+| 4 | [스택 수열](https://www.acmicpc.net/problem/1874) | 바킹독님 | Silver3 | 2022.01.19 |
