@@ -55,4 +55,4 @@
 | 30 | [*괄호의 값](https://www.acmicpc.net/problem/2504) | [풀이](./스택/괄호의값_2504.java) | Silver2 | Master | 2022.01.15 | 2022.01.16 |
 | 31 | [그림](https://www.acmicpc.net/problem/1926) | [풀이](./BFS/그림_1926.java) | Silver1 | Master | 2022.01.16 | - |
 | 32 | [미로탐색](https://www.acmicpc.net/problem/2178) | [풀이](./BFS/미로탐색_2178.java) | Silver1 | Master | 2022.01.16 | - |
-| 33 | [토마토](https://www.acmicpc.net/problem/7576) | [풀이](./BFS/토마토_7576.java) | Silver1 | Fail | 2022.01.16 | 2022.01.17 |
+| 33 | [*토마토](https://www.acmicpc.net/problem/7576) | [풀이](./BFS/토마토_7576.java) | Silver1 | Master | 2022.01.16 | 2022.01.17 |
