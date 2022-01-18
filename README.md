@@ -10,6 +10,5 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 동아리실 관리하기 | samsungDX | - | 2022.01.18 |
-| 2 | [불](https://www.acmicpc.net/problem/4179) | 바킹독님 | Gold4 |  2022.01.18 |
-| 3 | [스택 수열](https://www.acmicpc.net/problem/1874) | 바킹독님 | Silver3 | 2022.01.19 |
+| 1 | [불](https://www.acmicpc.net/problem/4179) | 바킹독님 | Gold4 |  2022.01.18 |
+| 2 | [스택 수열](https://www.acmicpc.net/problem/1874) | 바킹독님 | Silver3 | 2022.01.19 |
