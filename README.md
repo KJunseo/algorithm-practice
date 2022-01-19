@@ -10,4 +10,4 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | [불](https://www.acmicpc.net/problem/4179) | 바킹독님 | Gold4 |  2022.01.19 |
+
