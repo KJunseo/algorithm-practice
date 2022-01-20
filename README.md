@@ -11,3 +11,4 @@
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
 | 1 | 자기 방으로 돌아가기 | samsungDX | - |  2022.01.20 |
+| 2 | 최대 상금 | samsungDX | - |  2022.01.21 |
