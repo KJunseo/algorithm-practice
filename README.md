@@ -7,9 +7,13 @@
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
+><br>
+><br>Description: 
+> <br>1) samsungDX: 문제 외부 공유 불가하여 github에 올릴 수 없음.
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
 | 1 | 자기 방으로 돌아가기 | samsungDX | - |  2022.01.20 |
 | 2 | 최대 상금 | samsungDX | - |  2022.01.22(토) |
 | 3 | 최장 공통 부분 수열 | samsungDX | - |  2022.01.22(토) |
+| 4 | 0/1 Knapsack | samsungDX | - |  2022.01.22(토) |
