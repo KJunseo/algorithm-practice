@@ -13,9 +13,8 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 자기 방으로 돌아가기 | samsungDX | - |  2022.01.22 |
-| 2 | 최대 상금 | samsungDX | - |  2022.01.22 |
-| 3 | 최장 공통 부분 수열 | samsungDX | - |  2022.01.22 |
-| 4 | 0/1 Knapsack | samsungDX | - |  2022.01.22 |
-| 5 | 스팟마트 | samsungDX | - |  2022.01.22 |
-| 6 | 영어공부 | samsungDX | - |  2022.01.23 |
+| 1 | 최대 상금 | samsungDX | - |  2022.01.22 |
+| 2 | 최장 공통 부분 수열 | samsungDX | - |  2022.01.22 |
+| 3 | 0/1 Knapsack | samsungDX | - |  2022.01.22 |
+| 4 | 스팟마트 | samsungDX | - |  2022.01.22 |
+| 5 | 영어공부 | samsungDX | - |  2022.01.23 |
