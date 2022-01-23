@@ -19,3 +19,4 @@
 | 4 | 스팟마트 | samsungDX | - |  2022.01.22 |
 | 5 | 영어공부 | samsungDX | - |  2022.01.23 |
 | 6 | 그래도 수명이 절반이 되어서는 | samsungDX | - |  2022.01.24 |
+| 7 | Inversion Counting | samsungDX | - |  2022.01.24 |
