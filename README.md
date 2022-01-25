@@ -13,11 +13,12 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 최대 상금 | samsungDX | - | 2022.01.24 |
-| 2 | 최장 공통 부분 수열 | samsungDX | - | 2022.01.24 |
-| 3 | 0/1 Knapsack | samsungDX | - | 2022.01.24 |
-| 4 | 스팟마트 | samsungDX | - | 2022.01.25 |
-| 5 | 영어공부 | samsungDX | - | 2022.01.25 |
-| 6 | 그래도 수명이 절반이 되어서는 | samsungDX | - | 2022.01.25 |
-| 7 | Inversion Counting | samsungDX | - | 2022.01.25 |
-| 8 | 프로세서 연결하기 | samsungDX | - | 2022.01.26 |
+| 1 | 최대 상금 | samsungDX | - | 2022.01.25 |
+| 2 | 최장 공통 부분 수열 | samsungDX | - | 2022.01.25 |
+| 3 | 0/1 Knapsack | samsungDX | - | 2022.01.25 |
+| 4 | 스팟마트 | samsungDX | - | 2022.01.26 |
+| 5 | 영어공부 | samsungDX | - | 2022.01.26 |
+| 6 | 그래도 수명이 절반이 되어서는 | samsungDX | - | 2022.01.26 |
+| 7 | Inversion Counting | samsungDX | - | 2022.01.27 |
+| 8 | 프로세서 연결하기 | samsungDX | - | 2022.01.27 |
+| 9 | 영준이의 진짜 BFS | samsungDX | - | 2022.01.27 |
