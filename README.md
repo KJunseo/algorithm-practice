@@ -13,10 +13,9 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 그래도 수명이 절반이 되어서는 | samsungDX | - | 2022.01.30 |
-| 2 | Inversion Counting | samsungDX | - | 2022.01.31 |
-| 3 | 프로세서 연결하기 | samsungDX | - | 2022.01.31 |
-| 4 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.01 |
-| 5 | 하나로 | samsungDX | - | 2022.02.01 |
-| 6 | 고속도로 건설2 | samsungDX | - | ~ 2022.02.02 |
-| 7 | 공통조상 | samsungDX | - | ~ 2022.02.02 |
+| 1 | Inversion Counting | samsungDX | - | 2022.01.31 |
+| 2 | 프로세서 연결하기 | samsungDX | - | 2022.01.31 |
+| 3 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.01 |
+| 4 | 하나로 | samsungDX | - | 2022.02.01 |
+| 5 | 고속도로 건설2 | samsungDX | - | ~ 2022.02.02 |
+| 6 | 공통조상 | samsungDX | - | ~ 2022.02.02 |
