@@ -14,7 +14,7 @@
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
 | 1 | 프로세서 연결하기 | samsungDX | - | 2022.01.31 |
-| 2 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.01 |
-| 3 | 하나로 | samsungDX | - | 2022.02.01 |
-| 4 | 고속도로 건설2 | samsungDX | - | ~ 2022.02.02 |
-| 5 | 공통조상 | samsungDX | - | ~ 2022.02.02 |
+| 2 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.03 |
+| 3 | 하나로 | samsungDX | - | 2022.02.03 |
+| 4 | 고속도로 건설2 | samsungDX | - | ~ 2022.02.04 |
+| 5 | 공통조상 | samsungDX | - | ~ 2022.02.04 |
