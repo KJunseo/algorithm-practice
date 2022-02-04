@@ -13,8 +13,9 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.03 |
-| 2 | 하나로 | samsungDX | - | 2022.02.03 |
+| 1 | 영준이의 진짜 BFS | samsungDX | - | 2022.02.04 |
+| 2 | 하나로 | samsungDX | - | 2022.02.04 |
 | 3 | 고속도로 건설2 | samsungDX | - | ~ 2022.02.04 |
-| 4 | 공통조상 | samsungDX | - | ~ 2022.02.04 |
-| 5 | 보급로 | samsungDX | - | ~ 2022.02.04 |
+| 4 | 공통조상 | samsungDX | - | ~ 2022.02.05 |
+| 5 | 보급로 | samsungDX | - | ~ 2022.02.05 |
+| 6 | 수 만들기 | samsungDX | - | ~ 2022.02.05 |
