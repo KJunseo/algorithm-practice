@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 연락처 DataBase | samsungDX | - | 2022.02.11 (금) |
-| 2 | 실전 문제 풀이 | samsungDX | - | 2022.02.11 (금) |
+| 1 | 연락처 DataBase | samsungDX | - | 2022.02.12 (토) |
 | 3 | 메일 서버 | samsungDX | - | 2022.02.12 (토) |
 | 4 | 문자열 암호화 | samsungDX | - | 2022.02.13 (일) |
 
@@ -21,9 +20,9 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 공통조상 | samsungDX | - | 2022.02.11 |
-| 2 | 보급로 | samsungDX | - | 2022.02.12 |
-| 3 | 수 만들기 | samsungDX | - | 2022.02.12 |
-| 4 | 단어가 등장하는 횟수 | samsungDX | - | 2022.02.13 |
-| 5 | 은기의 아주 큰 그림 | samsungDX | - | 2022.02.13 |
+| 1 | 공통조상 | samsungDX | - | - |
+| 2 | 보급로 | samsungDX | - | - |
+| 3 | 수 만들기 | samsungDX | - | - |
+| 4 | 단어가 등장하는 횟수 | samsungDX | - | - |
+| 5 | 은기의 아주 큰 그림 | samsungDX | - | - |
 
