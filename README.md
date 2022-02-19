@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 실전 문제 풀이 6 | samsungDX | - | - |
-| 2 | 실전 문제 풀이 7 | samsungDX | - | - |
+| 1 | 실전 문제 풀이 7 | samsungDX | - | - |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
