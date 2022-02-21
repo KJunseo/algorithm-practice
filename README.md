@@ -8,12 +8,10 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 유기농 배추 | baaarkingdog | Silver 2 | 2022.02.21. |
-| 2 | 적록색약 | baaarkingdog | Gold 5 | 2022.02.22. |
-| 3 | 토마토 | baaarkingdog | Gold 5 | 2022.02.22. |
-| 4 | 나이트의 이동 | baaarkingdog | Silver 2 | 2022.02.22. |
-| 5 | 불 | baaarkingdog | Gold 4 | 2022.02.22. |
-
+| 1 | 적록색약 | baaarkingdog | Gold 5 | 2022.02.22. |
+| 2 | 토마토 | baaarkingdog | Gold 5 | 2022.02.22. |
+| 3 | 나이트의 이동 | baaarkingdog | Silver 2 | 2022.02.22. |
+| 4 | 불 | baaarkingdog | Gold 4 | 2022.02.22. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
@@ -27,5 +25,4 @@
 | 2 | 보급로 | samsungDX | - | - |
 | 3 | 수 만들기 | samsungDX | - | - |
 | 4 | 단어가 등장하는 횟수 | samsungDX | - | - |
-| 5 | 은기의 아주 큰 그림 | samsungDX | - | - |
 
