@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 숨바꼭질 | baaarkingdog | Silver 1 | 2022.02.21. |
 
 
 ### 재풀이 리스트

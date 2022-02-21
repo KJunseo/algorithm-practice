@@ -57,3 +57,4 @@
 | 32 | [미로탐색](https://www.acmicpc.net/problem/2178) | [풀이](./BFS/미로탐색_2178.java) | Silver1 | Master | 2022.01.16 | - |
 | 33 | [*토마토](https://www.acmicpc.net/problem/7576) | [풀이](./BFS/토마토_7576.java) | Silver1 | Master | 2022.01.16 | 2022.01.17 |
 | 34 | [*불](https://www.acmicpc.net/problem/4179) | [풀이](./BFS/불_4179.java) | Gold4 | Master | 2022.01.17 | 2022.01.19 |
+| 35 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이](./BFS/숨바꼭질_1697.java) | Silver1 | Master | 2022.02.21 | - |
