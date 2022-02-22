@@ -60,3 +60,4 @@
 | 35 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이](./BFS/숨바꼭질_1697.java) | Silver1 | Master | 2022.02.21 | - |
 | 36 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이](./BFS/유기농배추_1012.java) | Silver2 | Master | 2022.02.21 | - |
 | 37 | [적록 색약](https://www.acmicpc.net/problem/10026) | [풀이](./BFS/적록색약_10026.java) | Gold5 | Master | 2022.02.22 | - |
+| 38 | [토마토](https://www.acmicpc.net/problem/7569) | [풀이](./BFS/토마토_7569.java) | Gold5 | Master | 2022.02.22 | - |
