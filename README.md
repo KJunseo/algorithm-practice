@@ -21,7 +21,6 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 보급로 | samsungDX | - | - |
-| 2 | 수 만들기 | samsungDX | - | - |
-| 3 | 단어가 등장하는 횟수 | samsungDX | - | - |
+| 1 | 수 만들기 | samsungDX | - | - |
+| 2 | 단어가 등장하는 횟수 | samsungDX | - | - |
 
