@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 적록색약 | baaarkingdog | Gold 5 | 2022.02.22. |
-| 2 | 토마토 | baaarkingdog | Gold 5 | 2022.02.22. |
-| 3 | 나이트의 이동 | baaarkingdog | Silver 2 | 2022.02.22. |
-| 4 | 불 | baaarkingdog | Gold 4 | 2022.02.22. |
+| 1 | 토마토 | baaarkingdog | Gold 5 | 2022.02.22. |
+| 2 | 나이트의 이동 | baaarkingdog | Silver 2 | 2022.02.22. |
+| 3 | 불 | baaarkingdog | Gold 4 | 2022.02.22. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
