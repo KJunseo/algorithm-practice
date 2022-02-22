@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 불 | baaarkingdog | Gold 4 | 2022.02.22. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
