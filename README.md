@@ -8,7 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 재귀함수가 뭔가요? | baaarkingdog | Silver 5 | 2022.02.23. |
+
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
