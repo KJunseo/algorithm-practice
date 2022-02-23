@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 곱셈 | baaarkingdog | Silver 1 | 2022.02.23. |
-| 2 | 하노이 탑 이동 순서 | baaarkingdog | Silver 1 | 2022.02.23. |
-| 3 | Z | baaarkingdog | Silver 1 | 2022.02.23. |
-| 4 | 재귀함수가 뭔가요? | baaarkingdog | Silver 5 | 2022.02.23. |
+| 1 | 하노이 탑 이동 순서 | baaarkingdog | Silver 1 | 2022.02.23. |
+| 2 | Z | baaarkingdog | Silver 1 | 2022.02.23. |
+| 3 | 재귀함수가 뭔가요? | baaarkingdog | Silver 5 | 2022.02.23. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)

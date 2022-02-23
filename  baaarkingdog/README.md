@@ -63,3 +63,4 @@
 | 38 | [토마토](https://www.acmicpc.net/problem/7569) | [풀이](./BFS/토마토_7569.java) | Gold5 | Master | 2022.02.22 | - |
 | 39 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [풀이](./BFS/나이트의이동_7562.java) | Silver2 | Master | 2022.02.22 | - |
 | 40 | [불](https://www.acmicpc.net/problem/5427) | [풀이](./BFS/불_5427.java) | Gold4 | Master | 2022.02.22 | - |
+| 41 | [곱셈](https://www.acmicpc.net/problem/1629) | [풀이](./재귀/곱셈_1629.java) | Silver1 | Master | 2022.02.23 | - |
