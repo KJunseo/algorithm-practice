@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | Z | baaarkingdog | Silver 1 | 2022.02.23. |
-| 2 | 재귀함수가 뭔가요? | baaarkingdog | Silver 5 | 2022.02.23. |
+| 1 | 재귀함수가 뭔가요? | baaarkingdog | Silver 5 | 2022.02.23. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
@@ -22,4 +21,4 @@
 | 1 | 수 만들기 | samsungDX | - | - |
 | 2 | 단어가 등장하는 횟수 | samsungDX | - | - |
 | 3 | 하노이 탑 이동 순서 | baaarkingdog | Silver 1 | 2022.02.24. |
-
+| 4 | Z | baaarkingdog | Silver 1 | 2022.02.24. |

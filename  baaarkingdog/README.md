@@ -65,3 +65,4 @@
 | 40 | [불](https://www.acmicpc.net/problem/5427) | [풀이](./BFS/불_5427.java) | Gold4 | Master | 2022.02.22 | - |
 | 41 | [곱셈](https://www.acmicpc.net/problem/1629) | [풀이](./재귀/곱셈_1629.java) | Silver1 | Master | 2022.02.23 | - |
 | 42 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [풀이](./재귀/하노이탑이동순서_11729.java) | Silver1 | Fail | 2022.02.23 | 2022.02.24 |
+| 43 | [Z](https://www.acmicpc.net/problem/1074) | [풀이](./재귀/Z_1074.java) | Silver1 | Fail | 2022.02.23 | 2022.02.24 |
