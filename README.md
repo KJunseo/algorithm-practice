@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 쿼드트리 | baaarkingdog | Silver 1 | 2022.02.24. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
