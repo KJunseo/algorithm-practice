@@ -8,9 +8,8 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 종이의 개수 | baaarkingdog | Silver 2 | 2022.02.24. |
-| 2 | 색종이 만들기 | baaarkingdog | Silver 3 | 2022.02.24. |
-| 3 | 쿼드트리 | baaarkingdog | Silver 1 | 2022.02.24. |
+| 1 | 색종이 만들기 | baaarkingdog | Silver 3 | 2022.02.24. |
+| 2 | 쿼드트리 | baaarkingdog | Silver 1 | 2022.02.24. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
