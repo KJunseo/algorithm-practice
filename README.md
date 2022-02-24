@@ -8,6 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | N과 M(1) | baaarkingdog | Silver 3 | 2022.02.25. |
+| 2 | N-Queen | baaarkingdog | Gold 5 | 2022.02.25. |
+| 3 | 부분수열의 합 | baaarkingdog | Silver 2 | 2022.02.25. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
