@@ -70,3 +70,4 @@
 | 45 | [종이의 개수](https://www.acmicpc.net/problem/1780) | [풀이](./재귀/종이의개수_1780.java) | Silver2 | Master | 2022.02.24 | - |
 | 46 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이](./재귀/색종이만들기_2630.java) | Silver3 | Master | 2022.02.24 | - |
 | 47 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [풀이](./재귀/쿼드트리_1992.java) | Silver1 | Master | 2022.02.24 | - |
+| 48 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | [풀이](./백트래킹/N과M1_15649.java) | Silver3 | Master | 2022.02.25 | - |
