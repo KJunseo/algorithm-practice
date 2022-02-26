@@ -17,6 +17,5 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 수 만들기 | samsungDX | - | - |
-| 2 | 단어가 등장하는 횟수 | samsungDX | - | - |
-| 3 | N-Queen | baaarkingdog | Gold 5 | 2022.02.26. |
+| 1 | 단어가 등장하는 횟수 | samsungDX | - | - |
+| 2 | N-Queen | baaarkingdog | Gold 5 | 2022.02.26. |
