@@ -17,5 +17,4 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 단어가 등장하는 횟수 | samsungDX | - | - |
-| 2 | N-Queen | baaarkingdog | Gold 5 | 2022.02.26. |
+| 1 | N-Queen | baaarkingdog | Gold 5 | 2022.02.26. |
