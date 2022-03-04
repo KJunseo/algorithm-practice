@@ -74,3 +74,4 @@
 | 49 | [*N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./백트래킹/NQueen_9663.java) | Gold 5 | Master | 2022.02.25 | 2022.03.04 |
 | 50 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [풀이](./백트래킹/부분수열의합_1182.java) | Silver 2 | Master | 2022.02.25 | - |
 | 51 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | [풀이](./백트래킹/N과M2_15650.java) | Silver 3 | Master | 2022.03.04. | - |
+| 52 | [N과 M(2)](https://www.acmicpc.net/problem/15651) | [풀이](./백트래킹/N과M3_15651.java) | Silver 3 | Master | 2022.03.04. | - |
