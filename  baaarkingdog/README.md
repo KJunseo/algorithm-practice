@@ -71,5 +71,6 @@
 | 46 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이](./재귀/색종이만들기_2630.java) | Silver3 | Master | 2022.02.24 | - |
 | 47 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [풀이](./재귀/쿼드트리_1992.java) | Silver1 | Master | 2022.02.24 | - |
 | 48 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | [풀이](./백트래킹/N과M1_15649.java) | Silver3 | Master | 2022.02.25 | - |
-| 49 | [*N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./백트래킹/NQueen_9663.java) | Gold 5 | Fail | 2022.02.25 | 2022.03.04 |
+| 49 | [*N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./백트래킹/NQueen_9663.java) | Gold 5 | Master | 2022.02.25 | 2022.03.04 |
 | 50 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [풀이](./백트래킹/부분수열의합_1182.java) | Silver 2 | Master | 2022.02.25 | - |
+| 51 | [N과 M(2)](https://www.acmicpc.net/problem/15650) | [풀이](./백트래킹/N과M2_15650.java) | Silver 3 | Master | 2022.03.04. | - |
