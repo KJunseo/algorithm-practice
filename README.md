@@ -8,9 +8,8 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | N과 M(5) | baaarkingdog | Silver 3 | 2022.03.04 |
-| 2 | N과 M(6) | baaarkingdog | Silver 3 | 2022.03.04 |
-| 3 | N과 M(7) | baaarkingdog | Silver 3 | 2022.03.04 |
+| 1 | N과 M(6) | baaarkingdog | Silver 3 | 2022.03.04 |
+| 2 | N과 M(7) | baaarkingdog | Silver 3 | 2022.03.04 |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
