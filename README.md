@@ -23,4 +23,3 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | N-Queen | baaarkingdog | Gold 5 | 2022.03.03. |

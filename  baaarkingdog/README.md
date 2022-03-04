@@ -65,11 +65,11 @@
 | 40 | [불](https://www.acmicpc.net/problem/5427) | [풀이](./BFS/불_5427.java) | Gold4 | Master | 2022.02.22 | - |
 | 41 | [곱셈](https://www.acmicpc.net/problem/1629) | [풀이](./재귀/곱셈_1629.java) | Silver1 | Master | 2022.02.23 | - |
 | 42 | [하노이 탑 이동 순서*](https://www.acmicpc.net/problem/11729) | [풀이](./재귀/하노이탑이동순서_11729.java) | Silver1 | Master | 2022.02.23 | 2022.02.24 |
-| 43 | [Z*](https://www.acmicpc.net/problem/1074) | [풀이](./재귀/Z_1074.java) | Silver1 | Master | 2022.02.23 | 2022.02.24 |
+| 43 | [*Z](https://www.acmicpc.net/problem/1074) | [풀이](./재귀/Z_1074.java) | Silver1 | Master | 2022.02.23 | 2022.02.24 |
 | 44 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | [풀이](./재귀/재귀함수가뭔가요_17478.java) | Silver5 | Master | 2022.02.23 | - |
 | 45 | [종이의 개수](https://www.acmicpc.net/problem/1780) | [풀이](./재귀/종이의개수_1780.java) | Silver2 | Master | 2022.02.24 | - |
 | 46 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이](./재귀/색종이만들기_2630.java) | Silver3 | Master | 2022.02.24 | - |
 | 47 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [풀이](./재귀/쿼드트리_1992.java) | Silver1 | Master | 2022.02.24 | - |
 | 48 | [N과 M(1)](https://www.acmicpc.net/problem/15649) | [풀이](./백트래킹/N과M1_15649.java) | Silver3 | Master | 2022.02.25 | - |
-| 49 | [N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./백트래킹/NQueen_9663.java) | Gold 5 | Fail | 2022.02.25 | 2022.02.26 |
+| 49 | [*N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./백트래킹/NQueen_9663.java) | Gold 5 | Fail | 2022.02.25 | 2022.03.04 |
 | 50 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [풀이](./백트래킹/부분수열의합_1182.java) | Silver 2 | Master | 2022.02.25 | - |
