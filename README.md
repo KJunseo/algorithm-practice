@@ -8,11 +8,10 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | N과 M(9) | baaarkingdog | Silver 2 | 2022.03.05 |
-| 2 | N과 M(10) | baaarkingdog | Silver 2 | 2022.03.05 |
-| 3 | N과 M(11) | baaarkingdog | Silver 2 | 2022.03.05 |
-| 4 | N과 M(12) | baaarkingdog | Silver 2 | 2022.03.05 |
-| 5 | 로또 | baaarkingdog | Silver 2 | 2022.03.05 |
+| 1 | N과 M(10) | baaarkingdog | Silver 2 | 2022.03.05 |
+| 2 | N과 M(11) | baaarkingdog | Silver 2 | 2022.03.05 |
+| 3 | N과 M(12) | baaarkingdog | Silver 2 | 2022.03.05 |
+| 4 | 로또 | baaarkingdog | Silver 2 | 2022.03.05 |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
