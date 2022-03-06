@@ -84,3 +84,4 @@
 | 58 | [N과 M(10)](https://www.acmicpc.net/problem/15664) | [풀이](./백트래킹/N과M10_15664.java) | Silver 2 | Master | 2022.03.05. | - |
 | 59 | [N과 M(11)](https://www.acmicpc.net/problem/15665) | [풀이](./백트래킹/N과M11_15665.java) | Silver 2 | Master | 2022.03.06. | - |
 | 60 | [N과 M(12)](https://www.acmicpc.net/problem/15666) | [풀이](./백트래킹/N과M12_15666.java) | Silver 2 | Master | 2022.03.06. | - |
+| 61 | [로또](https://www.acmicpc.net/problem/6603) | [풀이](./백트래킹/로또_6603.java) | Silver 2 | Master | 2022.03.06. | - |
