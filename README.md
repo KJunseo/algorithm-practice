@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 감시 | baaarkingdog | Gold 5 | 2022.03.07. |
-| 2 | 스티커 붙이기 | baaarkingdog | Gold 3 | 2022.03.07. |
+| 1 | 스티커 붙이기 | baaarkingdog | Gold 3 | 2022.03.09. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
@@ -19,3 +18,4 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 감시 | baaarkingdog | Gold 5 | 2022.03.09. |
