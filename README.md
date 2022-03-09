@@ -18,4 +18,3 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 감시 | baaarkingdog | Gold 5 | 2022.03.09. |
