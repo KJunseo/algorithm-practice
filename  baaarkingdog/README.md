@@ -86,3 +86,4 @@
 | 60 | [N과 M(12)](https://www.acmicpc.net/problem/15666) | [풀이](./백트래킹/N과M12_15666.java) | Silver 2 | Master | 2022.03.06. | - |
 | 61 | [로또](https://www.acmicpc.net/problem/6603) | [풀이](./백트래킹/로또_6603.java) | Silver 2 | Master | 2022.03.06. | - |
 | 62 | [*감시](https://www.acmicpc.net/problem/15683) | [풀이](./시뮬레이션/감시_15683.java) | Gold 5 | Master | 2022.03.08. | 2022.03.09. |
+| 63 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | [풀이](./시뮬레이션/스티커붙이기_18808.java) | Gold 3 | Master | 2022.03.09. | - |
