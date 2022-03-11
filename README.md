@@ -18,4 +18,3 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 2048 (Easy) | baaarkingdog | Gold 2 | 2022.03.11. |
