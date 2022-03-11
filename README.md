@@ -8,7 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 치킨 배달 | baaarkingdog | Gold 5 | 2022.03.11. |
+| 1 | 치킨 배달 | baaarkingdog | Gold 5 | 2022.03.13. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
