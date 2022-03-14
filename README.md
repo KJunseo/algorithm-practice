@@ -8,6 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | Puyo Puyo | baaarkingdog | Gold 4 | 2022.03.15. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
