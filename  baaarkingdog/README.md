@@ -88,3 +88,4 @@
 | 62 | [*감시](https://www.acmicpc.net/problem/15683) | [풀이](./시뮬레이션/감시_15683.java) | Gold 5 | Master | 2022.03.08. | 2022.03.09. |
 | 63 | [스티커 붙이기](https://www.acmicpc.net/problem/18808) | [풀이](./시뮬레이션/스티커붙이기_18808.java) | Gold 3 | Master | 2022.03.09. | - |
 | 64 | [*2048 (EASY)](https://www.acmicpc.net/problem/12100) | [풀이](./시뮬레이션/EASY2048_12100.java) | Gold 2 | Master | 2022.03.10. | 2022.03.11. |
+| 65 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [풀이](./시뮬레이션/치킨배달_15686.java) | Gold 5 | Master | 2022.03.14. | - |
