@@ -8,7 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-
+| 1 | 주사위 굴리기 | baaarkingdog | Gold 4 | 2022.03.17. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
