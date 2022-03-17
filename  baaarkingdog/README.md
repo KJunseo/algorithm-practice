@@ -91,3 +91,4 @@
 | 65 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [풀이](./시뮬레이션/치킨배달_15686.java) | Gold 5 | Master | 2022.03.14. | - |
 | 66 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | [풀이](./시뮬레이션/PuyoPuyo_11559.java) | Gold 4 | Master | 2022.03.15. | - |
 | 67 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | [풀이](./시뮬레이션/톱니바퀴_14891.java) | Gold 5 | Master | 2022.03.16. | - |
+| 68 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [풀이](./시뮬레이션/주사위굴리기_14499.java) | Gold 4 | Master | 2022.03.17. | - |
