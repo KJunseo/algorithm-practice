@@ -94,3 +94,4 @@
 | 68 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [풀이](./시뮬레이션/주사위굴리기_14499.java) | Gold 4 | Master | 2022.03.17. | - |
 | 69 | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이](./그리디/동전0_11047.java) | Silver 3 | Master | 2022.03.21. | - |
 | 70 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이](./DP/일로만들기_1463.java) | Silver 3 | Master | 2022.03.21. | - |
+| 71 | [트럭](https://www.acmicpc.net/problem/13335) | [풀이](./시뮬레이션/트럭_13335.java) | Silver 1 | Master | 2022.03.21. | - |

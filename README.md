@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 트럭 | baaarkingdog | Silver1 | 2022.03.21. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
