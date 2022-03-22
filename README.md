@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 연결 요소의 개수 | baaarkingdog | Silver 2 | 2022.03.22. |
 | 2 | Maaaaaaaaaze | baaarkingdog | Gold 3 | 2022.03.22. |
 
 
