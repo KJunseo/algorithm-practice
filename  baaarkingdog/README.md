@@ -97,3 +97,4 @@
 | 71 | [트럭](https://www.acmicpc.net/problem/13335) | [풀이](./시뮬레이션/트럭_13335.java) | Silver 1 | Master | 2022.03.21. | - |
 | 72 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이](./DP/일이삼더하기_9095.java) | Silver 3 | Master | 2022.03.22. | - |
 | 73 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [풀이](./그래프/연결요소의개수_11724.java) | Silver 2 | Master | 2022.03.22. | - |
+| 74 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | [풀이](./시뮬레이션/Maaaaaaaaaze_16985.java) | Gold 3 | Master | 2022.03.22. | - |

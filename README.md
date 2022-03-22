@@ -8,8 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 2 | Maaaaaaaaaze | baaarkingdog | Gold 3 | 2022.03.22. |
-
 
 
 ### 재풀이 리스트
