@@ -102,3 +102,4 @@
 | 76 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이](./DP/계단오르기_2579.java) | Silver 3 | Master | 2022.03.25. | - |
 | 77 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이](./그래프/DFS와BFS_1260.java) | Silver 2 | Master | 2022.03.25. | - |
 | 78 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [풀이](./트리/트리의부모찾기_11725.java) | Silver 2 | Master | 2022.03.25. | - |
+| 79 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [풀이](./시뮬레이션/로봇청소기_14503.java) | Gold 5 | Accepted | 2022.03.25. | 2022.04.01. |
