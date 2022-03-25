@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 수 고르기 | baaarkingdog | Gold 5 | 2022.03.25. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
@@ -18,4 +17,5 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.04.01. |
+| 1 | 수 고르기 | baaarkingdog | Gold 5 | 2022.03.27. |
+| 2 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.04.01. |
