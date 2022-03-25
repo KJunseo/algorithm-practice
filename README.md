@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | DFS와 BFS | baaarkingdog | Silver 2 | 2022.03.25. |
-| 2 | 트리의 부모 찾기 | baaarkingdog | Silver 2 | 2022.03.25. |
-| 3 | 수 고르기 | baaarkingdog | Gold 5 | 2022.03.25. |
-| 4 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.03.25. |
+| 1 | 트리의 부모 찾기 | baaarkingdog | Silver 2 | 2022.03.25. |
+| 2 | 수 고르기 | baaarkingdog | Gold 5 | 2022.03.25. |
+| 3 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.03.25. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
