@@ -99,3 +99,4 @@
 | 73 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [풀이](./그래프/연결요소의개수_11724.java) | Silver 2 | Master | 2022.03.22. | - |
 | 74 | [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) | [풀이](./시뮬레이션/Maaaaaaaaaze_16985.java) | Gold 3 | Master | 2022.03.22. | - |
 | 75 | [수 찾기](https://www.acmicpc.net/problem/1920) | [풀이](./이분탐색/수찾기_1920.java) | Silver 4 | Master | 2022.03.25. | - |
+| 76 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이](./DP/계단오르기_2579.java) | Silver 3 | Master | 2022.03.25. | - |
