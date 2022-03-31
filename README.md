@@ -17,5 +17,4 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 수 고르기 | baaarkingdog | Gold 5 | 2022.03.27. |
-| 2 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.04.01. |
+| 1 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.04.01. |
