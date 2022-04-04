@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | RGB거리 | baaarkingdog | Silver 1 | 2022.04.04. |
-| 2 | 뱀 | baaarkingdog | Gold 5 | 2022.04.04. |
+| 1 | 뱀 | baaarkingdog | Gold 5 | 2022.04.04. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
