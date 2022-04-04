@@ -105,3 +105,4 @@
 | 79 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [풀이](./시뮬레이션/로봇청소기_14503.java) | Gold 5 | Master | 2022.03.25. | 2022.04.04. |
 | 80 | [수 고르기](https://www.acmicpc.net/problem/2230) | [풀이](./투포인터/수고르기_2230.java) | Gold 5 | Master | 2022.03.25. | 2022.03.31. |
 | 81 | [바이러스](https://www.acmicpc.net/problem/2606) | [풀이](./그래프/바이러스_2606.java) | Silver 3 | Master | 2022.04.04. | - |
+| 82 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [풀이](./그리디/회의실배정_1931.java) | Silver 2 | Master | 2022.04.04. | - |
