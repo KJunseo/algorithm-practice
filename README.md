@@ -21,4 +21,3 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 로봇 청소기 | baaarkingdog | Gold 5 | 2022.04.04. |
