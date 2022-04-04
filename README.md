@@ -8,6 +8,10 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 숫자 카드 2 | baaarkingdog | Silver 4 | 2022.04.05. |
+| 2 | 2×n 타일링 | baaarkingdog | Silver 3 | 2022.04.05. |
+| 3 | 트리 순회 | baaarkingdog | Silver 1 | 2022.04.05. |
+| 4 | 테트로미노 | baaarkingdog | Gold 5 | 2022.04.05. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
