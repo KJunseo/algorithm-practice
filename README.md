@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 바이러스 | baaarkingdog | Silver 3 | 2022.04.04. |
-| 2 | 회의실 배정 | baaarkingdog | Silver 2 | 2022.04.04. |
-| 3 | RGB거리 | baaarkingdog | Silver 1 | 2022.04.04. |
-| 4 | 뱀 | baaarkingdog | Gold 5 | 2022.04.04. |
+| 1 | 회의실 배정 | baaarkingdog | Silver 2 | 2022.04.04. |
+| 2 | RGB거리 | baaarkingdog | Silver 1 | 2022.04.04. |
+| 3 | 뱀 | baaarkingdog | Gold 5 | 2022.04.04. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
