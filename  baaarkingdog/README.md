@@ -108,3 +108,4 @@
 | 82 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [풀이](./그리디/회의실배정_1931.java) | Silver 2 | Master | 2022.04.04. | - |
 | 83 | [RGB거리](https://www.acmicpc.net/problem/1149) | [풀이](./DP/RGB거리_1149.java) | Silver 1 | Master | 2022.04.04. | - |
 | 84 | [뱀](https://www.acmicpc.net/problem/3190) | [풀이](./시뮬레이션/뱀_3190.java) | Gold 5 | Master | 2022.04.04. | - |
+| 85 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이](./이분탐색/숫자카드2_10816.java) | Silver 4 | Master | 2022.04.05. | 2022.04.06. |
