@@ -109,3 +109,4 @@
 | 83 | [RGB거리](https://www.acmicpc.net/problem/1149) | [풀이](./DP/RGB거리_1149.java) | Silver 1 | Master | 2022.04.04. | - |
 | 84 | [뱀](https://www.acmicpc.net/problem/3190) | [풀이](./시뮬레이션/뱀_3190.java) | Gold 5 | Master | 2022.04.04. | - |
 | 85 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이](./이분탐색/숫자카드2_10816.java) | Silver 4 | Master | 2022.04.05. | 2022.04.06. |
+| 86 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | [풀이](./DP/이xn타일링_11726.java) | Silver 3 | Master | 2022.04.05. | - |
