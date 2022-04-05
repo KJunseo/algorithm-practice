@@ -111,3 +111,4 @@
 | 85 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [풀이](./이분탐색/숫자카드2_10816.java) | Silver 4 | Master | 2022.04.05. | 2022.04.06. |
 | 86 | [2xn 타일링](https://www.acmicpc.net/problem/11726) | [풀이](./DP/이xn타일링_11726.java) | Silver 3 | Master | 2022.04.05. | - |
 | 87 | [트리 순회](https://www.acmicpc.net/problem/1991) | [풀이](./트리/트리순회_1991.java) | Silver 1 | Master | 2022.04.05. | - |
+| 88 | [테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](./시뮬레이션/테트로미노_14500.java) | Gold 5 | Master | 2022.04.05. | - |

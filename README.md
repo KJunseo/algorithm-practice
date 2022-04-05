@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 테트로미노 | baaarkingdog | Gold 5 | 2022.04.05. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
