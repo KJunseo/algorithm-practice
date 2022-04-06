@@ -114,3 +114,4 @@
 | 88 | [테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](./시뮬레이션/테트로미노_14500.java) | Gold 5 | Master | 2022.04.05. | - |
 | 89 | [로프](https://www.acmicpc.net/problem/2217) | [풀이](./그리디/로프_2217.java) | Silver 4 | Master | 2022.04.06. | - |
 | 90 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이](./DP/구간합구하기4_11659.java) | Silver 3 | Master | 2022.04.06. | - |
+| 91 | [결혼식](https://www.acmicpc.net/problem/5567) | [풀이](./그래프/결혼식_5567.java) | Silver 2 | Master | 2022.04.06. | - |
