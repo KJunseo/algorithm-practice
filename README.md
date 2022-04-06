@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 로프 | baaarkingdog | Silver 4 | 2022.04.06. |
-| 2 | 구간 합 구하기 4 | baaarkingdog | Silver 3 | 2022.04.06. |
-| 3 | 결혼식 | baaarkingdog | Silver 2 | 2022.04.06. |
-| 4 | 구슬 탈출 2 | baaarkingdog | Gold 1 | 2022.04.06. |
+| 1 | 구간 합 구하기 4 | baaarkingdog | Silver 3 | 2022.04.06. |
+| 2 | 결혼식 | baaarkingdog | Silver 2 | 2022.04.06. |
+| 3 | 구슬 탈출 2 | baaarkingdog | Gold 1 | 2022.04.06. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
