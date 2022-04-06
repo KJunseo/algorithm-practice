@@ -21,4 +21,3 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 숫자 카드 2 | baaarkingdog | Silver 4 | 2022.04.06. |
