@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 구슬 탈출 2 | baaarkingdog | Gold 1 | 2022.04.06. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
@@ -18,3 +17,4 @@
 
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 구슬 탈출 2 | baaarkingdog | Gold 1 | 2022.04.07. |
