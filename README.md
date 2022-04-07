@@ -8,6 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 좌표 압축 | baaarkingdog | Silver 2 | 2022.04.07. |
+| 2 | 1로 만들기 2 | baaarkingdog | Silver 1 | 2022.04.07. |
+| 3 | 트리 | baaarkingdog | Gold 4 | 2022.04.07. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
