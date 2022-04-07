@@ -116,3 +116,4 @@
 | 90 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이](./DP/구간합구하기4_11659.java) | Silver 3 | Master | 2022.04.06. | - |
 | 91 | [결혼식](https://www.acmicpc.net/problem/5567) | [풀이](./그래프/결혼식_5567.java) | Silver 2 | Master | 2022.04.06. | - |
 | 92 | [결혼식](https://www.acmicpc.net/problem/13460) | [풀이](./시뮬레이션/구슬탈출2_13460.java) | Gold 1 | Fail | 2022.04.06. | 2022.04.07. |
+| 93 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이](./이분탐색/좌표압축_18870_2.java) | Silver 2 | Master | 2022.04.07. | - |
