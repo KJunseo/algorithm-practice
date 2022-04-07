@@ -117,3 +117,4 @@
 | 91 | [결혼식](https://www.acmicpc.net/problem/5567) | [풀이](./그래프/결혼식_5567.java) | Silver 2 | Master | 2022.04.06. | - |
 | 92 | [결혼식](https://www.acmicpc.net/problem/13460) | [풀이](./시뮬레이션/구슬탈출2_13460.java) | Gold 1 | Fail | 2022.04.06. | 2022.04.07. |
 | 93 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이](./이분탐색/좌표압축_18870_2.java) | Silver 2 | Master | 2022.04.07. | - |
+| 94 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [풀이](./DP/일로만들기2_12852.java) | Silver 1 | Master | 2022.04.07. | - |
