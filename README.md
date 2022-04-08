@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 보물 | baaarkingdog | Silver 4 | 2022.04.08. |
-| 2 | 피보나치 함수 | baaarkingdog | Silver 3 | 2022.04.08. |
-| 3 | 경로 찾기 | baaarkingdog | Silver 1 | 2022.04.08. |
-| 4 | 연구소 | baaarkingdog | Gold 5 | 2022.04.08. |
+| 1 | 피보나치 함수 | baaarkingdog | Silver 3 | 2022.04.08. |
+| 2 | 경로 찾기 | baaarkingdog | Silver 1 | 2022.04.08. |
+| 3 | 연구소 | baaarkingdog | Gold 5 | 2022.04.08. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
