@@ -121,3 +121,4 @@
 | 95 | [트리](https://www.acmicpc.net/problem/12852) | [풀이](./트리/트리_4803.java) | Gold 4 | Accepted | 2022.04.07. | 2022.04.14. |
 | 96 | [보물](https://www.acmicpc.net/problem/1026) | [풀이](./그리디/보물_1026.java) | Silver 4 | Master | 2022.04.08. | - |
 | 97 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이](./DP/피보나치함수_1003.java) | Silver 3 | Master | 2022.04.08. | - |
+| 98 | [경로 찾기](https://www.acmicpc.net/problem/11403) | [풀이](./그래프/경로찾기_11403.java) | Silver 1 | Master | 2022.04.08. | - |
