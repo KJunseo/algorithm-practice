@@ -122,3 +122,4 @@
 | 96 | [보물](https://www.acmicpc.net/problem/1026) | [풀이](./그리디/보물_1026.java) | Silver 4 | Master | 2022.04.08. | - |
 | 97 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이](./DP/피보나치함수_1003.java) | Silver 3 | Master | 2022.04.08. | - |
 | 98 | [경로 찾기](https://www.acmicpc.net/problem/11403) | [풀이](./그래프/경로찾기_11403.java) | Silver 1 | Master | 2022.04.08. | - |
+| 99 | [연구소](https://www.acmicpc.net/problem/14502) | [풀이](./시뮬레이션/연구소_14502.java) | Gold 5 | Master | 2022.04.08. | - |

@@ -8,7 +8,6 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 연구소 | baaarkingdog | Gold 5 | 2022.04.08. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
