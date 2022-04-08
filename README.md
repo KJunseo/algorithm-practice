@@ -18,3 +18,4 @@
 | No | Problem | Description | Difficult | Next Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
 | 1 | 트리 | baaarkingdog | Gold 4 | 2022.04.14. |
+| 2 | 트리와 쿼리 | baaarkingdog | Gold 5 | 2022.04.15. |
