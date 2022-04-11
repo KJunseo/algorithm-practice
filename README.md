@@ -8,6 +8,11 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 그룹 단어 체커 | baekjoon | Silver 5 | 2022.04.11. |
+| 2 | 연산자 끼워넣기 | baaarkingdog | Silver 1 | 2022.04.11. |
+| 3 | 정수 삼각형 | baaarkingdog | Silver 1 | 2022.04.11. |
+| 4 | 노드사이의 거리 | baaarkingdog | Gold 5 | 2022.04.11. |
+| 5 | 세 수의 합 | baaarkingdog | Gold 4 | 2022.04.11. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
