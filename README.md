@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 노드사이의 거리 | baaarkingdog | Gold 5 | 2022.04.11. |
-| 2 | 세 수의 합 | baaarkingdog | Gold 4 | 2022.04.11. |
+| 1 | 세 수의 합 | baaarkingdog | Gold 4 | 2022.04.11. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
