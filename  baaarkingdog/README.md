@@ -127,3 +127,4 @@
 | 101 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [풀이](./시뮬레이션/연산자끼워넣기_14888.java) | Silver 1 | Master | 2022.04.11. | - |
 | 102 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [풀이](./DP/정수삼각형_1932.java) | Silver 1 | Master | 2022.04.11. | - |
 | 103 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [풀이](./트리/노드사이의거리_1240.java) | Gold 5 | Master | 2022.04.11. | - |
+| 104 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [풀이](./이분탐색/세수의합_2295.java) | Gold 4 | Fail | 2022.04.11. | 2022.04.12. |
