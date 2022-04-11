@@ -124,3 +124,4 @@
 | 98 | [경로 찾기](https://www.acmicpc.net/problem/11403) | [풀이](./그래프/경로찾기_11403.java) | Silver 1 | Master | 2022.04.08. | - |
 | 99 | [연구소](https://www.acmicpc.net/problem/14502) | [풀이](./시뮬레이션/연구소_14502.java) | Gold 5 | Master | 2022.04.08. | - |
 | 100 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | [풀이](./트리/트리와쿼리_15681.java) | Gold 5 | Accepted | 2022.04.08. | - |
+| 101 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | [풀이](./시뮬레이션/연산자끼워넣기_14888.java) | Silver 1 | Master | 2022.04.11. | - |
