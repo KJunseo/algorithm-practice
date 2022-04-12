@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 회장뽑기 | baaarkingdog | Gold 5 | 2022.04.12. |
-| 2 | 비밀지도 | kakao | level 1 | 2022.04.12. |
+| 1 | 비밀지도 | kakao | level 1 | 2022.04.12. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)

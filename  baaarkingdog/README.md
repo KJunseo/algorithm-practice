@@ -131,3 +131,4 @@
 | 105 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이](./DP/이xn타일링2_11727.java) | Silver 3 | Master | 2022.04.12. | - |
 | 106 | [ATM](https://www.acmicpc.net/problem/11399) | [풀이](./그리디/ATM_11399.java) | Silver 3 | Master | 2022.04.12. | - |
 | 107 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [풀이](./시뮬레이션/스타트와링크_14889_2.java) | Silver 2 | Master | 2022.04.12. | - |
+| 108 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [풀이](./그래프/회장뽑기_2660.java) | Gold 5 | Master | 2022.04.12. | - |
