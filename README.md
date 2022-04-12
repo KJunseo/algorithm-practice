@@ -8,11 +8,10 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 2xn 타일링 2 | baaarkingdog | Silver 3 | 2022.04.12. |
-| 2 | ATM | baaarkingdog | Silver 3 | 2022.04.12. |
-| 3 | 스타트와 링크 | baaarkingdog | Silver 2 | 2022.04.12. |
-| 4 | 회장뽑기 | baaarkingdog | Gold 5 | 2022.04.12. |
-| 5 | 비밀지도 | kakao | level 1 | 2022.04.12. |
+| 1 | ATM | baaarkingdog | Silver 3 | 2022.04.12. |
+| 2 | 스타트와 링크 | baaarkingdog | Silver 2 | 2022.04.12. |
+| 3 | 회장뽑기 | baaarkingdog | Gold 5 | 2022.04.12. |
+| 4 | 비밀지도 | kakao | level 1 | 2022.04.12. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)

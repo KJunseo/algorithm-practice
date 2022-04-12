@@ -128,3 +128,4 @@
 | 102 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [풀이](./DP/정수삼각형_1932.java) | Silver 1 | Master | 2022.04.11. | - |
 | 103 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [풀이](./트리/노드사이의거리_1240.java) | Gold 5 | Master | 2022.04.11. | - |
 | 104 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [풀이](./이분탐색/세수의합_2295.java) | Gold 4 | Master | 2022.04.11. | 2022.04.12. |
+| 105 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이](./DP/이xn타일링2_11727.java) | Silver 3 | Master | 2022.04.12. | - |
