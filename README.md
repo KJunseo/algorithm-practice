@@ -8,6 +8,11 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
+| 1 | 이친수 | baaarkingdog | Silver 3 | 2022.04.13. |
+| 2 | 랜선 자르기 | baaarkingdog | Silver 3 | 2022.04.13. |
+| 3 | 트리순회 | baaarkingdog | Gold 4 | 2022.04.13. |
+| 4 | 경사로 | baaarkingdog | Gold 3 | 2022.04.13. |
+| 5 | 다트 게임 | kakao | level 1 | 2022.04.13. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
