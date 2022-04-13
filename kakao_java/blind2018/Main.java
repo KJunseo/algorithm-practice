@@ -4,7 +4,13 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        비밀지도();
+//        비밀지도();
+        다트게임();
+    }
+
+    private static void 다트게임() {
+        String dartResult = "1D2S3T*";
+        System.out.println(new 다트게임().solution(dartResult));
     }
 
     private static void 비밀지도() {
