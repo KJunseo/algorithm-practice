@@ -8,8 +8,7 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 경사로 | baaarkingdog | Gold 3 | 2022.04.13. |
-| 2 | 다트 게임 | kakao | level 1 | 2022.04.13. |
+| 1 | 다트 게임 | kakao | level 1 | 2022.04.13. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)

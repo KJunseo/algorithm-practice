@@ -135,3 +135,4 @@
 | 109 | [이친수](https://www.acmicpc.net/problem/2193) | [풀이](./DP/이친수_2193.java) | Silver 3 | Master | 2022.04.13. | - |
 | 110 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./이분탐색/랜선자르기_1654.java) | Silver 3 | Master | 2022.04.13. | - |
 | 111 | [트리 순회](https://www.acmicpc.net/problem/22856) | [풀이](./이분탐색/랜선자르기_1654.java) | Gold 4 | Master | 2022.04.13. | - |
+| 112 | [경사로](https://www.acmicpc.net/problem/14890) | [풀이](./시뮬레이션/경사로_14890.java) | Gold 3 | Master | 2022.04.13. | - |
