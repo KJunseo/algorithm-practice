@@ -133,3 +133,4 @@
 | 107 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | [풀이](./시뮬레이션/스타트와링크_14889_2.java) | Silver 2 | Master | 2022.04.12. | - |
 | 108 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [풀이](./그래프/회장뽑기_2660.java) | Gold 5 | Master | 2022.04.12. | - |
 | 109 | [이친수](https://www.acmicpc.net/problem/2193) | [풀이](./DP/이친수_2193.java) | Silver 3 | Master | 2022.04.13. | - |
+| 110 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./이분탐색/랜선자르기_1654.java) | Silver 3 | Master | 2022.04.13. | - |

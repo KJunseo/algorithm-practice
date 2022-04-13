@@ -8,10 +8,9 @@
 ### TODO
 | No | Problem | Description | Difficult | Solving Date |
 |:------:|:---------:|:---------:|:-----------:|:-----------:|
-| 1 | 랜선 자르기 | baaarkingdog | Silver 3 | 2022.04.13. |
-| 2 | 트리순회 | baaarkingdog | Gold 4 | 2022.04.13. |
-| 3 | 경사로 | baaarkingdog | Gold 3 | 2022.04.13. |
-| 4 | 다트 게임 | kakao | level 1 | 2022.04.13. |
+| 1 | 트리순회 | baaarkingdog | Gold 4 | 2022.04.13. |
+| 2 | 경사로 | baaarkingdog | Gold 3 | 2022.04.13. |
+| 3 | 다트 게임 | kakao | level 1 | 2022.04.13. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
