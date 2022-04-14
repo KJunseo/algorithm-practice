@@ -5,7 +5,14 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 //        비밀지도();
-        다트게임();
+//        다트게임();
+        캐시();
+    }
+
+    private static void 캐시() {
+        int cacheSize = 3;
+        String[] cities = {"Jeju", "Pangyo", "Seoul", "NewYork", "LA", "Jeju", "Pangyo", "Seoul", "NewYork", "LA"};
+        System.out.println(new 캐시().solution(cacheSize, cities));
     }
 
     private static void 다트게임() {
