@@ -20,3 +20,4 @@
 | 1 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [풀이](./blind2018/비밀지도.java) | level 1 | Master | 2022.04.12. | - |
 | 2 | [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [풀이](./blind2018/다트게임.java) | level 1 | Master | 2022.04.13. | - |
 | 3 | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](./blind2018/캐시.java) | level 2 | Master | 2022.04.14. | - |
+| 4 | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17680) | [풀이](./blind2018/캐시.java) | level 2 | Master | 2022.04.15. | - |

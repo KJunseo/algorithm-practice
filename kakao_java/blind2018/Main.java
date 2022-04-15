@@ -6,7 +6,14 @@ public class Main {
     public static void main(String[] args) {
 //        비밀지도();
 //        다트게임();
-        캐시();
+//        캐시();
+        뉴스클러스터링();
+    }
+
+    private static void 뉴스클러스터링() {
+        String str1 = "handshake";
+        String str2 = "shake hands";
+        System.out.println(new 뉴스클러스터링().solution(str1, str2));
     }
 
     private static void 캐시() {
