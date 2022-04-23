@@ -7,7 +7,16 @@ public class Main {
 //        비밀지도();
 //        다트게임();
 //        캐시();
-        뉴스클러스터링();
+//        뉴스클러스터링();
+        셔틀버스();
+    }
+
+    private static void 셔틀버스() {
+        int n = 10;
+        int t = 25;
+        int m = 1;
+        String[] timeTables = {"09:00", "09:10", "09:20", "09:30", "09:40", "09:50", "10:00", "10:10", "10:20", "10:30", "10:40", "10:50"};
+        System.out.println(new 셔틀버스().solution(n, t, m, timeTables));
     }
 
     private static void 뉴스클러스터링() {
