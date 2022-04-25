@@ -9,7 +9,16 @@ public class Main {
 //        캐시();
 //        뉴스클러스터링();
 //        셔틀버스();
-        프렌즈4블록();
+//        프렌즈4블록();
+        N진수게임();
+    }
+
+    private static void N진수게임() {
+        int n = 2;
+        int t = 4;
+        int m = 2;
+        int p = 1;
+        System.out.println(new N진수게임().solution(n, t, m, p));
     }
 
     private static void 프렌즈4블록() {

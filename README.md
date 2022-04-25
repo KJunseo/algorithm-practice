@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| n진수 게임 | kakao | level2 | 2022.04.25. |
 | 압축 | kakao | level2 | 2022.04.25. |
 | 매칭 점수 | kakao | level3 | 2022.04.25. |
 | 추석 트래픽 | kakao | level3 | 2022.04.25. |
