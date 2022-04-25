@@ -11,7 +11,16 @@ public class Main {
 //        셔틀버스();
 //        프렌즈4블록();
 //        N진수게임();
-        압축();
+//        압축();
+        추석트래픽();
+    }
+
+    private static void 추석트래픽() {
+        String[] lines = {
+                "2016-09-15 01:00:04.001 2.0s",
+                "2016-09-15 01:00:07.000 2s"
+        };
+        System.out.println(new 추석트래픽().solution(lines));
     }
 
     private static void 압축() {

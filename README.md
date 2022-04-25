@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 추석 트래픽 | kakao | level3 | 2022.04.25. |
 | 실패율 | kakao | level1 | 2022.04.26. |
 | 방금그곡 | kakao | level2 | 2022.04.26. |
 | 오픈채팅방 | kakao | level2 | 2022.04.26. |
