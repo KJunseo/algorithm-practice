@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 매칭 점수 | kakao | level3 | 2022.04.25. |
 | 추석 트래픽 | kakao | level3 | 2022.04.25. |
 | 실패율 | kakao | level1 | 2022.04.26. |
 | 방금그곡 | kakao | level2 | 2022.04.26. |
