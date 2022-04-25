@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 프렌즈4블록 | kakao | level2 | 2022.04.25. |
 | n진수 게임 | kakao | level2 | 2022.04.25. |
 | 압축 | kakao | level2 | 2022.04.25. |
 | 매칭 점수 | kakao | level3 | 2022.04.25. |

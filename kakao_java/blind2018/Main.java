@@ -8,7 +8,15 @@ public class Main {
 //        다트게임();
 //        캐시();
 //        뉴스클러스터링();
-        셔틀버스();
+//        셔틀버스();
+        프렌즈4블록();
+    }
+
+    private static void 프렌즈4블록() {
+        int m = 4;
+        int n = 5;
+        String[] board = {"CCBDE", "AAADE", "AAABF", "CCBBF"};
+        System.out.println(new 프렌즈4블록().solution(m, n, board));
     }
 
     private static void 셔틀버스() {
