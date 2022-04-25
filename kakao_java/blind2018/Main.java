@@ -10,7 +10,13 @@ public class Main {
 //        뉴스클러스터링();
 //        셔틀버스();
 //        프렌즈4블록();
-        N진수게임();
+//        N진수게임();
+        압축();
+    }
+
+    private static void 압축() {
+        String msg = "ABABABABABABABAB";
+        System.out.println(Arrays.toString(new 압축().solution(msg)));
     }
 
     private static void N진수게임() {
