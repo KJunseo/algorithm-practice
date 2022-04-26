@@ -5,7 +5,13 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 //        매칭점수();
-        실패율();
+//        실패율();
+        오픈채팅방();
+    }
+
+    private static void 오픈채팅방() {
+        String[] record = {"Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"};
+        System.out.println(Arrays.toString(new 오픈채팅방().solution(record)));
     }
 
     private static void 실패율() {

@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 오픈채팅방 | kakao | level2 | 2022.04.26. |
 | 길 찾기 게임 | kakao | level3 | 2022.04.26. |
 | 합승 택시 요금 | kakao | level3 | 2022.04.26. |
 | 문자열 압축 | kakao | level2 | 2022.04.27. |
