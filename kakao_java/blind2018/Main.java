@@ -4,15 +4,25 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-//        비밀지도();
-//        다트게임();
-//        캐시();
-//        뉴스클러스터링();
-//        셔틀버스();
-//        프렌즈4블록();
-//        N진수게임();
-//        압축();
-        추석트래픽();
+        //        비밀지도();
+        //        다트게임();
+        //        캐시();
+        //        뉴스클러스터링();
+        //        셔틀버스();
+        //        프렌즈4블록();
+        //        N진수게임();
+        //        압축();
+        //        추석트래픽();
+        방금그곡();
+    }
+
+    private static void 방금그곡() {
+        String m = "ABCDEFG";
+        String[] musicinfos = {
+                "12:00,12:14,HELLO,CDEFGAB",
+                "13:00,13:05,WORLD,ABCDEF"
+        };
+        System.out.println(new 방금그곡().solution(m, musicinfos));
     }
 
     private static void 추석트래픽() {
@@ -72,9 +82,9 @@ public class Main {
         int n = 5;
         int[] arr1 = {9, 20, 28, 18, 11};
         int[] arr2 = {30, 1, 21, 17, 28};
-//        int n = 6;
-//        int[] arr1 = {46, 33, 33 ,22, 31, 50};
-//        int[] arr2 = {27 ,56, 19, 14, 14, 10};
+        //        int n = 6;
+        //        int[] arr1 = {46, 33, 33 ,22, 31, 50};
+        //        int[] arr2 = {27 ,56, 19, 14, 14, 10};
         System.out.println(Arrays.toString(new 비밀지도().solution(n, arr1, arr2)));
     }
 }
