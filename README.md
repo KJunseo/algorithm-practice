@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 실패율 | kakao | level1 | 2022.04.26. |
 | 방금그곡 | kakao | level2 | 2022.04.26. |
 | 오픈채팅방 | kakao | level2 | 2022.04.26. |
 | 길 찾기 게임 | kakao | level3 | 2022.04.26. |

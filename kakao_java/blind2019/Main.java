@@ -1,8 +1,17 @@
 package blind2019;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-        매칭점수();
+//        매칭점수();
+        실패율();
+    }
+
+    private static void 실패율() {
+        int n = 5;
+        int[] stages = {2, 1, 2, 6, 2, 4, 3, 3};
+        System.out.println(Arrays.toString(new 실패율().solution(n, stages)));
     }
 
     private static void 매칭점수() {
