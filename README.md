@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 자물쇠와 열쇠 | kakao | level3 | 2022.04.27. |
 | 기둥과 보 설치 | kakao | level3 | 2022.04.27. |
 | 신규 아이디 추천 | kakao | level1 | 2022.04.28. |
 | 메뉴 리뉴얼 | kakao | level2 | 2022.04.28. |
@@ -37,3 +36,5 @@
 |:---------:|:---------:|:-----------:|:-----------:|
 | 트리 | baaarkingdog | Gold 4 | - |
 | 트리와 쿼리 | baaarkingdog | Gold 5 | - |
+| 자물쇠와 열쇠 | kakao | level3 | - |
+
