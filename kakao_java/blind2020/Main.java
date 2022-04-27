@@ -1,11 +1,29 @@
 package blind2020;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
         //        문자열압축();
         //        괄호변환();
-        자물쇠와열쇠();
+        //        자물쇠와열쇠();
+        기둥과보설치();
+    }
+
+    private static void 기둥과보설치() {
+        int n = 5;
+        int[][] build_frame = {
+                {1, 0, 0, 1},
+                {1, 1, 1, 1},
+                {2, 1, 0, 1},
+                {2, 2, 1, 1},
+                {5, 0, 0, 1},
+                {5, 1, 0, 1},
+                {4, 2, 1, 1},
+                {3, 2, 1, 1}
+        };
+        System.out.println(Arrays.deepToString(new 기둥과보설치().solution(n, build_frame)));
     }
 
     private static void 자물쇠와열쇠() {
