@@ -13,7 +13,13 @@ public class Main {
         //        N진수게임();
         //        압축();
         //        추석트래픽();
-        방금그곡();
+        //        방금그곡();
+        파일명정렬();
+    }
+
+    private static void 파일명정렬() {
+        String[] files = {"img12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG"};
+        System.out.println(Arrays.toString(new 파일명정렬().solution(files)));
     }
 
     private static void 방금그곡() {

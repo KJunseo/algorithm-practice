@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 파일명 정렬 | kakao | level2 | 2022.04.27. |
 | 자물쇠와 열쇠 | kakao | level3 | 2022.04.27. |
 | 기둥과 보 설치 | kakao | level3 | 2022.04.27. |
 | 신규 아이디 추천 | kakao | level1 | 2022.04.28. |
