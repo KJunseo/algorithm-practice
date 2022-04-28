@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 외벽 점검 | kakao | level3 | 2022.04.28. |
 | 블록 이동하기 | kakao | level3 | 2022.04.28. |
 | 주차 요금 계산 | kakao | level2 | 2022.04.29. |
 | k진수에서 소수 개수 구하기 | kakao | level2 | 2022.04.29. |
@@ -35,6 +34,4 @@
 | 자물쇠와 열쇠 | kakao | level3 | - |
 | 기둥과 보 설치 | kakao | level3 | - |
 | 순위 검색 | kakao | level2 | - |
-
-
-
+| 외벽 점검 | kakao | level3 | - |

@@ -8,7 +8,15 @@ public class Main {
         //        문자열압축();
         //        괄호변환();
         //        자물쇠와열쇠();
-        기둥과보설치();
+        //        기둥과보설치();
+        외벽점검();
+    }
+
+    private static void 외벽점검() {
+        int n = 12;
+        int[] weak = {1, 3, 4, 9, 10};
+        int[] dist = {3, 5, 7};
+        System.out.println(new 외벽점검().solution(n, weak, dist));
     }
 
     private static void 기둥과보설치() {
