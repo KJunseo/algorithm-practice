@@ -86,7 +86,7 @@ public class 기둥과보설치 {
         }
         return bo[x + 1][y] && bo[x - 1][y];
     }
-    
+
     private int[][] getResult(int n) {
         List<int[]> result = new ArrayList<>();
         for (int i = 1; i <= n + 1; i++) {

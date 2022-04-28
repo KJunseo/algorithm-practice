@@ -3,7 +3,13 @@ package blind2021;
 public class Main {
 
     public static void main(String[] args) {
-        합승택시요금();
+//        합승택시요금();
+        신규아이디추천();
+    }
+
+    private static void 신규아이디추천() {
+        String new_id = "...!@BaT#*..y.abcdefghijklm";
+        System.out.println(new 신규아이디추천().solution(new_id));
     }
 
     private static void 합승택시요금() {
