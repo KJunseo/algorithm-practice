@@ -1,10 +1,19 @@
 package blind2021;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
-//        합승택시요금();
-        신규아이디추천();
+        //        합승택시요금();
+        //        신규아이디추천();
+        메뉴리뉴얼();
+    }
+
+    private static void 메뉴리뉴얼() {
+        String[] orders = {"ABCDE", "AB", "CD", "ADE", "XYZ", "XYZ", "ACD"};
+        int[] course = {2, 3, 5};
+        System.out.println(Arrays.toString(new 메뉴리뉴얼().solution(orders, course)));
     }
 
     private static void 신규아이디추천() {

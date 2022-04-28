@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 메뉴 리뉴얼 | kakao | level2 | 2022.04.28. |
 | 순위 검색 | kakao | level2 | 2022.04.28. |
 | 외벽 점검 | kakao | level3 | 2022.04.28. |
 | 블록 이동하기 | kakao | level3 | 2022.04.28. |
