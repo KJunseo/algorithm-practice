@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 주차 요금 계산 | kakao | level2 | 2022.04.29. |
 | k진수에서 소수 개수 구하기 | kakao | level2 | 2022.04.29. |
 | 후보키 | kakao | level2 | 2022.04.29. |
 | 광고 삽입 | kakao | level3 | 2022.04.29. |
