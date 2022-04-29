@@ -7,7 +7,20 @@ public class Main {
         //        매칭점수();
         //        실패율();
         //        오픈채팅방();
-        길찾기게임();
+        //        길찾기게임();
+        후보키();
+    }
+
+    private static void 후보키() {
+        String[][] relation = {
+                {"100", "ryan", "music", "2"},
+                {"200", "apeach", "math", "2"},
+                {"300", "tube", "computer", "3"},
+                {"400", "con", "computer", "4"},
+                {"500", "muzi", "music", "3"},
+                {"600", "apeach", "music", "2"}
+        };
+        System.out.println(new 후보키().solution(relation));
     }
 
     private static void 길찾기게임() {
