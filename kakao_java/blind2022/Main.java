@@ -5,7 +5,14 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        주차요금계산();
+        //        주차요금계산();
+        k진수에서소수개수구하기();
+    }
+
+    private static void k진수에서소수개수구하기() {
+        int n = 110011;
+        int k = 10;
+        System.out.println(new k진수에서소수개수구하기().solution(n, k));
     }
 
     private static void 주차요금계산() {

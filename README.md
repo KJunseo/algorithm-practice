@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| k진수에서 소수 개수 구하기 | kakao | level2 | 2022.04.29. |
 | 후보키 | kakao | level2 | 2022.04.29. |
 | 광고 삽입 | kakao | level3 | 2022.04.29. |
 | 카드 짝 맞추기 | kakao | level3 | 2022.04.29. |
