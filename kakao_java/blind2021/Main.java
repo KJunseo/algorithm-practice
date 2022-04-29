@@ -8,7 +8,15 @@ public class Main {
         //        합승택시요금();
         //        신규아이디추천();
         //        메뉴리뉴얼();
-        순위검색();
+        //        순위검색();
+        광고삽입();
+    }
+
+    private static void 광고삽입() {
+        String play_time = "02:03:55";
+        String adv_time = "00:14:15";
+        String[] logs = {"01:20:15-01:45:14", "00:40:31-01:00:00", "00:25:50-00:48:29", "01:30:59-01:53:29", "01:37:44-02:02:30"};
+        System.out.println(new 광고삽입().solution(play_time, adv_time, logs));
     }
 
     private static void 순위검색() {
