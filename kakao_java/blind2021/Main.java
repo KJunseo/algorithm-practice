@@ -9,7 +9,20 @@ public class Main {
         //        신규아이디추천();
         //        메뉴리뉴얼();
         //        순위검색();
-        광고삽입();
+        //        광고삽입();
+        카드짝맞추기();
+    }
+
+    private static void 카드짝맞추기() {
+        int[][] board = {
+                {1, 0, 0, 3},
+                {2, 0, 0, 0},
+                {0, 0, 0, 2},
+                {3, 0, 1, 0}
+        };
+        int r = 1;
+        int c = 0;
+        System.out.println(new 카드짝맞추기().solution(board, r, c));
     }
 
     private static void 광고삽입() {
