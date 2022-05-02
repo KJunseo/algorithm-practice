@@ -6,7 +6,15 @@ public class Main {
 
     public static void main(String[] args) {
         //        주차요금계산();
-        k진수에서소수개수구하기();
+        //        k진수에서소수개수구하기();
+        신고결과받기();
+    }
+
+    private static void 신고결과받기() {
+        String[] id_list = {"muzi", "frodo", "apeach", "neo"};
+        String[] report = {"muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"};
+        int k = 2;
+        System.out.println(Arrays.toString(new 신고결과받기().solution(id_list, report, k)));
     }
 
     private static void k진수에서소수개수구하기() {

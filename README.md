@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 신고 결과 받기 | kakao | level1 | 2022.05.02. |
 | 양궁 대회 | kakao | level2 | 2022.05.02. |
 | 양과 늑대 | kakao | level3 | 2022.05.02. |
 | 파괴되지 않은 건물 | kakao | level3 | 2022.05.02. |
