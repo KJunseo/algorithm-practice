@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 양과 늑대 | kakao | level3 | 2022.05.02. |
 | 파괴되지 않은 건물 | kakao | level3 | 2022.05.02. |
 | 크레인 인형뽑기 게임 | kakao | level1 | 2022.05.04. |
 | 튜플 | kakao | level2 | 2022.05.04. |
@@ -41,3 +40,4 @@
 | 광고 삽입 | kakao | level3 | - |
 | 카드 짝 맞추기 | kakao | level3 | - |
 | 양궁 대회 | kakao | level2 | - |
+| 양과 늑대 | kakao | level3 | - |

@@ -8,7 +8,14 @@ public class Main {
         //        주차요금계산();
         //        k진수에서소수개수구하기();
         //        신고결과받기();
-        양궁대회();
+        //        양궁대회();
+        양과늑대();
+    }
+
+    private static void 양과늑대() {
+        int[] info = {0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1};
+        int[][] edges = {{0, 1}, {1, 2}, {1, 4}, {0, 8}, {8, 7}, {9, 1}, {9, 1}, {4, 3}, {6, 5}, {4, 6}, {8, 9}};
+        System.out.println(new 양과늑대().solution(info, edges));
     }
 
     private static void 양궁대회() {
