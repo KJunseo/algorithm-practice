@@ -7,7 +7,14 @@ public class Main {
     public static void main(String[] args) {
         //        주차요금계산();
         //        k진수에서소수개수구하기();
-        신고결과받기();
+        //        신고결과받기();
+        양궁대회();
+    }
+
+    private static void 양궁대회() {
+        int n = 5;
+        int[] info = {2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0};
+        System.out.println(Arrays.toString(new 양궁대회().solution(n, info)));
     }
 
     private static void 신고결과받기() {
