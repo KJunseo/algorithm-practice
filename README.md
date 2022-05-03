@@ -38,6 +38,5 @@
 | 블록 이동하기 | kakao | level3 | - |
 | 광고 삽입 | kakao | level3 | - |
 | 카드 짝 맞추기 | kakao | level3 | - |
-| 양궁 대회 | kakao | level2 | - |
 | 양과 늑대 | kakao | level3 | - |
 | 파괴되지 않은 건물 | kakao | level3 | - |
