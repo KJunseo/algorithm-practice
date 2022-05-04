@@ -9,7 +9,6 @@
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
 | 사라지는 발판 | kakao | level3 | 2022.05.04. |
-| 불량 사용자 | kakao | level3 | 2022.05.04. |
 | 키패드 누르기 | kakao | level1 | 2022.05.05. |
 | 수식 최대화 | kakao | level2 | 2022.05.05. |
 | 징검다리 건너기 | kakao | level3 | 2022.05.05. |
