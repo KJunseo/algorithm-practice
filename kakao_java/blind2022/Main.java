@@ -10,7 +10,19 @@ public class Main {
         //        신고결과받기();
         //        양궁대회();
         //        양과늑대();
-        파괴되지않은건물();
+        //        파괴되지않은건물();
+        사라지는발판();
+    }
+
+    private static void 사라지는발판() {
+        int[][] board = {
+                {1, 1, 1},
+                {1, 1, 1},
+                {1, 1, 1}
+        };
+        int[] aloc = {1, 0};
+        int[] bloc = {1, 2};
+        System.out.println(new 사라지는발판().solution(board, aloc, bloc));
     }
 
     private static void 파괴되지않은건물() {

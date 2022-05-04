@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 사라지는 발판 | kakao | level3 | 2022.05.04. |
 | 키패드 누르기 | kakao | level1 | 2022.05.05. |
 | 수식 최대화 | kakao | level2 | 2022.05.05. |
 | 징검다리 건너기 | kakao | level3 | 2022.05.05. |
@@ -35,3 +34,4 @@
 | 블록 이동하기 | kakao | level3 | - |
 | 광고 삽입 | kakao | level3 | - |
 | 카드 짝 맞추기 | kakao | level3 | - |
+| 사라지는 발판 | kakao | level3 | - |
