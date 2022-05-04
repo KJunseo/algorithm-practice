@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 크레인 인형뽑기 게임 | kakao | level1 | 2022.05.04. |
 | 튜플 | kakao | level2 | 2022.05.04. |
 | 사라지는 발판 | kakao | level3 | 2022.05.04. |
 | 불량 사용자 | kakao | level3 | 2022.05.04. |
