@@ -7,7 +7,14 @@ public class Main {
     public static void main(String[] args) {
         //        크레인인형뽑기게임();
         //        튜플();
-        불량사용자();
+        //        불량사용자();
+        징검다리건너기();
+    }
+
+    private static void 징검다리건너기() {
+        int[] stones = {2, 4, 5, 3, 2, 1, 4, 2, 5, 1};
+        int k = 3;
+        System.out.println(new 징검다리건너기().solution(stones, k));
     }
 
     private static void 불량사용자() {
