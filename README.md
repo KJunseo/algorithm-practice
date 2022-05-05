@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 키패드 누르기 | kakao | level1 | 2022.05.05. |
 | 수식 최대화 | kakao | level2 | 2022.05.05. |
 | 징검다리 건너기 | kakao | level3 | 2022.05.05. |
 | 보석 쇼핑 | kakao | level3 | 2022.05.05. |
