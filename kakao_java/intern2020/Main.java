@@ -3,7 +3,13 @@ package intern2020;
 public class Main {
 
     public static void main(String[] args) {
-        키패드누르기();
+        //        키패드누르기();
+        수식최대화();
+    }
+
+    private static void 수식최대화() {
+        String expression = "100-200*300-500+20";
+        System.out.println(new 수식최대화().solution(expression));
     }
 
     private static void 키패드누르기() {
