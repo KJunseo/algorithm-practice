@@ -1,10 +1,18 @@
 package intern2020;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
         //        키패드누르기();
-        수식최대화();
+        //        수식최대화();
+        보석쇼핑();
+    }
+
+    private static void 보석쇼핑() {
+        String[] gems = {"DIA", "EM", "EM", "RUB", "DIA"};
+        System.out.println(Arrays.toString(new 보석쇼핑().solution(gems)));
     }
 
     private static void 수식최대화() {

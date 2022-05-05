@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 보석 쇼핑 | kakao | level3 | 2022.05.05. |
 | 숫자 문자열과 영단어 | kakao | level1 | 2022.05.06. |
 | 거리두기 확인하기 | kakao | level2 | 2022.05.06. |
 | 경주로 건설 | kakao | level3 | 2022.05.06. |
