@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 경주로 건설 | kakao | level3 | 2022.05.06. |
 | 표 편집 | kakao | level3 | 2022.05.06. |
 
 ### 재풀이 리스트
@@ -29,3 +28,4 @@
 | 광고 삽입 | kakao | level3 | - |
 | 카드 짝 맞추기 | kakao | level3 | - |
 | 사라지는 발판 | kakao | level3 | - |
+| 경주로 건설 | kakao | level3 | - |

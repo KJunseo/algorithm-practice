@@ -7,7 +7,19 @@ public class Main {
     public static void main(String[] args) {
         //        키패드누르기();
         //        수식최대화();
-        보석쇼핑();
+        //        보석쇼핑();
+        경주로건설();
+    }
+
+    private static void 경주로건설() {
+        int[][] board = {
+                {0, 0, 0, 0, 0},
+                {0, 1, 1, 1, 0},
+                {0, 0, 1, 0, 0},
+                {1, 0, 0, 0, 1},
+                {0, 1, 1, 0, 0}
+        };
+        System.out.println(new 경주로건설().solution(board));
     }
 
     private static void 보석쇼핑() {
