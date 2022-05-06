@@ -8,7 +8,6 @@
 ### TODO
 | Problem | Description | Difficult | Solving Date |
 |:---------:|:---------:|:-----------:|:-----------:|
-| 표 편집 | kakao | level3 | 2022.05.06. |
 
 ### 재풀이 리스트
 >매일 업데이트(추가 / 삭제)
