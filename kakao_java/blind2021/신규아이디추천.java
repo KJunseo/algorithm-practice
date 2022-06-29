@@ -10,7 +10,7 @@ public class 신규아이디추천 {
             new_id = new_id.substring(1);
         }
         if (new_id.isEmpty()) {
-            new_id = "a";
+            new_id = "naverfinancial";
         } else if (new_id.charAt(new_id.length() - 1) == '.') {
             new_id = new_id.substring(0, new_id.length() - 1);
         }

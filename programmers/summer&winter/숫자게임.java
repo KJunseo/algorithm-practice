@@ -14,7 +14,7 @@
 */
 import java.util.*;
 
-class Solution {
+class 숫자게임 {
     
     public int solution(int[] A, int[] B) {
         int answer = 0;
@@ -42,7 +42,7 @@ class Solution {
 
 
 // 이분 매칭(효율성 통과 못함)
-class Solution2 {
+class 숫자게임2 {
     int size=0;
     ArrayList<Integer> mapping[];
     boolean[] check;

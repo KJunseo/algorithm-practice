@@ -9,7 +9,7 @@
 import java.util.*;
 
 // 나의 풀이
-class Solution {
+class 스킬트리 {
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
         Map<Character, Integer> check = new HashMap<>();
@@ -45,7 +45,7 @@ class Solution {
     }
 }
 
-class Solution2 {
+class 스킬트리2 {
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
 

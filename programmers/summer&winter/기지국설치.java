@@ -4,7 +4,7 @@
 
     첫 번째 기지국이 커버할 수 있는 범위 전 까지 빈 곳의 수를 세고 빈 곳의 수에 따라 기지국을 추가한다고 생각하였다.
 */
-class Solution {
+class 기지국설치 {
     public int solution(int n, int[] stations, int w) {
         int answer=0;
         int idx=0; 

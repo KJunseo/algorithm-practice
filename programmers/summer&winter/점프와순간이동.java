@@ -53,7 +53,7 @@ public class 점프와순간이동 {
 }
 
 // 효율성까지
-class Solution {
+class 점프와순간이동2 {
     public int solution(int n) {
         int ans = 0;
 
@@ -76,7 +76,7 @@ class Solution {
 // 10진수를 2진수로 바꾸는 과정이 나누기 2를 계속하는 것이기 때문에
 // 나머지가 남는 구간(1)은 앞으로 전진한다고 생각
 // 나머지가 없는 구간(0)은 순간이동한다고 생각하면 된다 
-class Solution2 {
+class 점프와순간이동3 {
     public int solution(int n) {
         return Integer.bitCount(n); 
     }

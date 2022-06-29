@@ -16,7 +16,7 @@
     따라서 각각 경우에 따라 일직선때 사용한 방법을 적용하면 된다.
 */
 
-class Solution {
+class 스티커모으기 {
     public int solution(int sticker[]) {
 
         if(sticker.length==1) return sticker[0]; // 스티커가 하나 뿐인 경우도 생각 

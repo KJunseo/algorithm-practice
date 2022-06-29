@@ -11,7 +11,7 @@
     완전 이진 트리로도 구현할 수 있다고 한다.
 */
 
-class Solution {
+class 종이접기 {
     public int[] solution(int n) {
         StringBuilder sb=new StringBuilder("0");
 

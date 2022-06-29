@@ -10,7 +10,7 @@
 
      간단해보이는 문제였는데 어려웠다..
 */
-class Solution {
+class 쿠키구입 {
     int [] sum = new int[2001]; // 누적합을 저장할 배열 
 
     public int solution(int[] cookie) {

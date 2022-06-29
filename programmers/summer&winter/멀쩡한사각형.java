@@ -9,7 +9,7 @@
     1차 함수를 이용한 풀이도 첨부하였다. 이해를 잘 하지 못하였다.
 */
 // 최대공약수 풀이
-class Solution {
+class 멀쩡한사각형 {
     
     // 최대 공약수를 구해주는 함수 
     public long gcd(long max, long min) {

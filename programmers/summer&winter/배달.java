@@ -5,7 +5,7 @@
 */
 import java.util.*;
 
-class Solution {
+class 배달 {
 
     class Edge implements Comparable<Edge> {
         int to;

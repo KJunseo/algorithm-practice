@@ -5,7 +5,7 @@
 
     dfs말고 에라토스테네스의 체나 3중 for문으로도 풀 수 있다.
 */
-class Solution {
+class 소수만들기 {
     
     int answer=0;
     

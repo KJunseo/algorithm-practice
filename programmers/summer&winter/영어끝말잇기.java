@@ -6,7 +6,7 @@
 */
 import java.util.*;
 
-class Solution {
+class 영어끝말잇기 {
     public int[] solution(int n, String[] words) {
         int[] answer = new int[2];
         Set<String> set = new HashSet<>();

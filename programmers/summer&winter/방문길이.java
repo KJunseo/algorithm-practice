@@ -4,7 +4,7 @@
     5,5를 시작 지점으로 명령어에 따라 y, x 좌표를 옮겨주면서, 범위를 벗어나는 지 체크하고, 이미 방문했는지도 체크한다.
 */
 
-class Solution {
+class 방문길이 {
     final int SIZE = 11;
     boolean board [][][][] = new boolean[SIZE][SIZE][SIZE][SIZE]; // 방문 체크를 위한 배열 
     

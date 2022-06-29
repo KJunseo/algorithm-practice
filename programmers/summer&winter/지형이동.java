@@ -12,7 +12,7 @@
 */
 import java.util.*;
 
-class Solution {
+class 지형이동 {
 
     // 상, 하, 우, 좌 이동 
     int[] dx = {0, 0, 1, -1};

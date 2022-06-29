@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-class Solution {
+class 예산 {
     public int solution(int[] d, int budget) {
         int answer = 0;
         
