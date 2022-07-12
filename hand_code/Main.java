@@ -2,12 +2,14 @@ import java.util.Arrays;
 
 import sorting.BubbleSort;
 import sorting.InsertionSort;
+import sorting.SelectionSort;
 
 public class Main {
 
     public static void main(String[] args) {
 //        bubbleSort();
-        insertionSort();
+//        insertionSort();
+        selectionSort();
     }
 
     private static void bubbleSort() {
@@ -18,5 +20,10 @@ public class Main {
     private static void insertionSort() {
         int[] array = {1, 4, 2, 9, 17, 30, 5, 6, 19};
         System.out.println(Arrays.toString(new InsertionSort().insertionSort(array)));
+    }
+
+    private static void selectionSort() {
+        int[] array = {1, 4, 2, 9, 17, 30, 5, 6, 19};
+        System.out.println(Arrays.toString(new SelectionSort().selectionSort(array)));
     }
 }
