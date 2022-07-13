@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 import sorting.BubbleSort;
 import sorting.InsertionSort;
+import sorting.QuickSort;
 import sorting.SelectionSort;
 
 public class Main {
@@ -9,7 +10,8 @@ public class Main {
     public static void main(String[] args) {
 //        bubbleSort();
 //        insertionSort();
-        selectionSort();
+//        selectionSort();
+        quickSort();
     }
 
     private static void bubbleSort() {
@@ -25,5 +27,11 @@ public class Main {
     private static void selectionSort() {
         int[] array = {1, 4, 2, 9, 17, 30, 5, 6, 19};
         System.out.println(Arrays.toString(new SelectionSort().selectionSort(array)));
+    }
+
+    private static void quickSort() {
+        int[] array = {1, 4, 2, 9, 17, 30, 5, 6, 19};
+        new QuickSort().quickSort(array, 0, array.length - 1);
+        System.out.println(Arrays.toString(array));
     }
 }
