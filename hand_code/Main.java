@@ -10,7 +10,13 @@ public class Main {
 //        selectionSort();
 //        quickSort();
 //        mergeSort();
-        palindrome();
+//        palindrome();
+        stackSort();
+    }
+
+    private static void stackSort() {
+        int[] array = {3, 7, 1, 5, 3};
+        System.out.println(Arrays.toString(new StackSort().sort2(array)));
     }
 
     private static void palindrome() {
