@@ -5,11 +5,17 @@ import sorting.*;
 public class Main {
 
     public static void main(String[] args) {
-        bubbleSort();
-        insertionSort();
-        selectionSort();
-        quickSort();
-        mergeSort();
+//        bubbleSort();
+//        insertionSort();
+//        selectionSort();
+//        quickSort();
+//        mergeSort();
+        palindrome();
+    }
+
+    private static void palindrome() {
+        int n = 1123543211;
+        System.out.println(new Palindrome().palindrome(n));
     }
 
     private static void bubbleSort() {
