@@ -11,7 +11,18 @@ public class Main {
 //        quickSort();
 //        mergeSort();
 //        palindrome();
-        stackSort();
+//        stackSort();
+        queueUsingTwoStack();
+    }
+
+    private static void queueUsingTwoStack() {
+        QueueUsingTwoStack<Integer> queue = new QueueUsingTwoStack<>();
+        queue.add(1);
+        queue.add(2);
+        queue.add(3);
+        System.out.println(queue.poll()); // 1
+        System.out.println(queue.poll()); // 2
+        System.out.println(queue.poll()); // 3
     }
 
     private static void stackSort() {
