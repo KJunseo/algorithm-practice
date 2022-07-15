@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Stack;
 
 import sorting.*;
 
@@ -12,7 +13,18 @@ public class Main {
 //        mergeSort();
 //        palindrome();
 //        stackSort();
-        queueUsingTwoStack();
+//        queueUsingTwoStack();
+        stackUsingTwoQueue();
+    }
+
+    private static void stackUsingTwoQueue() {
+        StackUsingTwoQueue<Integer> stack = new StackUsingTwoQueue<>();
+        stack.add(1);
+        stack.add(2);
+        stack.add(3);
+        System.out.println(stack.pop()); // 3
+        System.out.println(stack.pop()); // 2
+        System.out.println(stack.pop()); // 1
     }
 
     private static void queueUsingTwoStack() {
