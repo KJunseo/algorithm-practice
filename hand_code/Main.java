@@ -14,7 +14,16 @@ public class Main {
 //        palindrome();
 //        stackSort();
 //        queueUsingTwoStack();
-        stackUsingTwoQueue();
+//        stackUsingTwoQueue();
+        fibonacci();
+    }
+
+    private static void fibonacci() {
+        Fibonacci fibonacci = new Fibonacci();
+        int n = 10;
+        System.out.println(fibonacci.fiboLoop(n));
+        System.out.println(fibonacci.fiboRecursive(n));
+        System.out.println(fibonacci.fiboDp(n));
     }
 
     private static void stackUsingTwoQueue() {
