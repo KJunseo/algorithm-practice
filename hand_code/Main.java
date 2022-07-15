@@ -15,7 +15,16 @@ public class Main {
 //        stackSort();
 //        queueUsingTwoStack();
 //        stackUsingTwoQueue();
-        fibonacci();
+//        fibonacci();
+        factorial();
+    }
+
+    private static void factorial() {
+        Factorial factorial = new Factorial();
+        int n = 12;
+        System.out.println(factorial.factorialLoop(n));
+        System.out.println(factorial.factorialRecursive(n));
+        System.out.println(factorial.factorial(100));
     }
 
     private static void fibonacci() {
