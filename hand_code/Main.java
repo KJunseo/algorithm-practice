@@ -17,7 +17,14 @@ public class Main {
 //        fibonacci();
 //        factorial();
 //        hanoi();
-        gcdLcm();
+//        gcdLcm();
+        kFirstSort();
+    }
+
+    private static void kFirstSort() {
+        int[] array = {3, 4, 1, 9, 6, 2};
+        int k = 3;
+        System.out.println(Arrays.toString(new KFirstSort().KFirstSort(array, k))); // 9 1 2 3 4 6
     }
 
     private static void gcdLcm() {
