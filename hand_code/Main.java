@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Stack;
 
 import sorting.*;
 
@@ -16,7 +15,12 @@ public class Main {
 //        queueUsingTwoStack();
 //        stackUsingTwoQueue();
 //        fibonacci();
-        factorial();
+//        factorial();
+        hanoi();
+    }
+
+    private static void hanoi() {
+        new Hanoi().hanoi(2, 1, 2, 3);
     }
 
     private static void factorial() {
