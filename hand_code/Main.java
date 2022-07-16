@@ -16,7 +16,12 @@ public class Main {
 //        stackUsingTwoQueue();
 //        fibonacci();
 //        factorial();
-        hanoi();
+//        hanoi();
+        gcdLcm();
+    }
+
+    private static void gcdLcm() {
+        System.out.println(Arrays.toString(new GcdLcm().solution(3, 12)));
     }
 
     private static void hanoi() {
