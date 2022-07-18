@@ -18,7 +18,12 @@ public class Main {
 //        factorial();
 //        hanoi();
 //        gcdLcm();
-        kFirstSort();
+//        kFirstSort();
+        sumThreeFive();
+    }
+
+    private static void sumThreeFive() {
+        System.out.println(new SumThreeFive().sum());
     }
 
     private static void kFirstSort() {
