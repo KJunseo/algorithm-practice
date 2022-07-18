@@ -19,7 +19,13 @@ public class Main {
 //        hanoi();
 //        gcdLcm();
 //        kFirstSort();
-        sumThreeFive();
+//        sumThreeFive();
+        duplicateArray();
+    }
+
+    private static void duplicateArray() {
+        int[] array = {1, 1, 2, 3, 4, 5, 6, 7};
+        System.out.println(new DuplicateArray().isDuplicated(array));
     }
 
     private static void sumThreeFive() {
