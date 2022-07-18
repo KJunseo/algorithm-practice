@@ -5,23 +5,32 @@ import sorting.*;
 public class Main {
 
     public static void main(String[] args) {
-//        bubbleSort();
-//        insertionSort();
-//        selectionSort();
-//        quickSort();
-//        mergeSort();
-//        palindrome();
-//        stackSort();
-//        queueUsingTwoStack();
-//        stackUsingTwoQueue();
-//        fibonacci();
-//        factorial();
-//        hanoi();
-//        gcdLcm();
-//        kFirstSort();
-//        sumThreeFive();
-//        duplicateArray();
-        reverseString();
+        //        bubbleSort();
+        //        insertionSort();
+        //        selectionSort();
+        //        quickSort();
+        //        mergeSort();
+        //        palindrome();
+        //        stackSort();
+        //        queueUsingTwoStack();
+        //        stackUsingTwoQueue();
+        //        fibonacci();
+        //        factorial();
+        //        hanoi();
+        //        gcdLcm();
+        //        kFirstSort();
+        //        sumThreeFive();
+        //        duplicateArray();
+        //        reverseString();
+        findKthLargest();
+    }
+
+    private static void findKthLargest() {
+        int[] nums = {3, 2, 1, 5, 6, 4};
+        int k = 2;
+        FindKthLargest findKthLargest = new FindKthLargest();
+        System.out.println(findKthLargest.findKthLargest(nums, k));
+        System.out.println(findKthLargest.findKthLargestQuickSelect(nums, k));
     }
 
     private static void reverseString() {
