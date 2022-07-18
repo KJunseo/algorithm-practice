@@ -20,7 +20,16 @@ public class Main {
 //        gcdLcm();
 //        kFirstSort();
 //        sumThreeFive();
-        duplicateArray();
+//        duplicateArray();
+        reverseString();
+    }
+
+    private static void reverseString() {
+        String string = "Hello World";
+        ReverseString reverseString = new ReverseString();
+        System.out.println(reverseString.reverse(string));
+        System.out.println(reverseString.reverseUsingStack(string));
+        System.out.println(reverseString.reverseUsingArray(string));
     }
 
     private static void duplicateArray() {
