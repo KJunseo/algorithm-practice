@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 import sorting.*;
+import string.ReverseString;
+import string.StringToInt;
 
 public class Main {
 
@@ -22,7 +24,13 @@ public class Main {
         //        sumThreeFive();
         //        duplicateArray();
         //        reverseString();
-        findKthLargest();
+        //        findKthLargest();
+        stringToInt();
+    }
+
+    private static void stringToInt() {
+        String num = "133345";
+        System.out.println(new StringToInt().stringToInt(num));
     }
 
     private static void findKthLargest() {

@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package string;
+
 import java.util.Stack;
 
 public class ReverseString {
