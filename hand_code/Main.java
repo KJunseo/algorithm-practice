@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 import sorting.*;
 import string.Anagram;
+import string.Compression;
 import string.ReverseString;
 import string.StringToInt;
 
@@ -26,8 +27,16 @@ public class Main {
         //        duplicateArray();
         //        reverseString();
         //        findKthLargest();
-//        stringToInt();
-        anagram();
+        //        stringToInt();
+        //        anagram();
+        compression();
+    }
+
+    private static void compression() {
+        Compression compression = new Compression();
+        System.out.println(compression.compress(new char[]{'a', 'a', 'a', 'b', 'b', 'b', 'c', 'c', 'c'})); // a3b3c3
+        System.out.println(compression.compress(new char[]{'a', 'a', 'b', 'b', 'a', 'c', 'b', 'c', 'c', 'c'})); // a3b3c4
+        System.out.println(compression.compressConsecutiveRepeatChar(new char[]{'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a'})); // a3b2a3
     }
 
     private static void anagram() {
