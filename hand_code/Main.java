@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 import sorting.*;
+import string.Anagram;
 import string.ReverseString;
 import string.StringToInt;
 
@@ -25,7 +26,17 @@ public class Main {
         //        duplicateArray();
         //        reverseString();
         //        findKthLargest();
-        stringToInt();
+//        stringToInt();
+        anagram();
+    }
+
+    private static void anagram() {
+        Anagram anagram = new Anagram();
+        System.out.println(anagram.isAnagram("arc", "car")); // true
+        System.out.println(anagram.isAnagram("caaabbb", "abababc")); // true
+        System.out.println(anagram.isAnagram("caabbbb", "abababc")); // false
+        System.out.println(anagram.isAnagram("arc", "carr")); // false
+        System.out.println(anagram.isAnagram("arc", "caz")); // false
     }
 
     private static void stringToInt() {
