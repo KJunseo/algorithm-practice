@@ -1,10 +1,8 @@
 import java.util.Arrays;
+import java.util.List;
 
 import sorting.*;
-import string.Anagram;
-import string.Compression;
-import string.ReverseString;
-import string.StringToInt;
+import string.*;
 
 public class Main {
 
@@ -29,7 +27,23 @@ public class Main {
         //        findKthLargest();
         //        stringToInt();
         //        anagram();
-        compression();
+        //        compression();
+        //        longestStringRemoveChar();
+        phone();
+    }
+
+    private static void phone() {
+        Phone phone = new Phone();
+        List<String> result = phone.solution(15231);
+        result.forEach(System.out::println);
+    }
+
+    private static void longestStringRemoveChar() {
+        String base = "adppsled";
+        String[] candidates = {"pled", "apple", "monkey", "ap"};
+        LongestStringRemoveChar longestString = new LongestStringRemoveChar();
+        System.out.println(longestString.solutionVer1(base, candidates));
+        System.out.println(longestString.solutionVer2(base, candidates));
     }
 
     private static void compression() {
