@@ -7,12 +7,19 @@ import stackqueue.QueueUsingTwoStack;
 import stackqueue.StackUsingTwoQueue;
 import string.*;
 import sum.SumThreeFive;
+import sum.ThreeSum;
 import sum.TwoSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        twoSum();
+        threeSum();
+    }
+
+    private static void threeSum() {
+        ThreeSum sum = new ThreeSum();
+        int[] nums = {-12, -11, -1, 1, 3, 5, 6, 9};
+        System.out.println(sum.threeSum(nums));
     }
 
     private static void twoSum() {
