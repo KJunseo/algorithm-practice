@@ -1,3 +1,5 @@
+package sum;
+
 public class SumThreeFive {
 
     public int sum() {

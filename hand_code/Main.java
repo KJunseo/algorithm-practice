@@ -2,34 +2,24 @@ import java.util.Arrays;
 import java.util.List;
 
 import sorting.*;
+import stackqueue.Palindrome;
+import stackqueue.QueueUsingTwoStack;
+import stackqueue.StackUsingTwoQueue;
 import string.*;
+import sum.SumThreeFive;
+import sum.TwoSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        //        bubbleSort();
-        //        insertionSort();
-        //        selectionSort();
-        //        quickSort();
-        //        mergeSort();
-        //        palindrome();
-        //        stackSort();
-        //        queueUsingTwoStack();
-        //        stackUsingTwoQueue();
-        //        fibonacci();
-        //        factorial();
-        //        hanoi();
-        //        gcdLcm();
-        //        kFirstSort();
-        //        sumThreeFive();
-        //        duplicateArray();
-        //        reverseString();
-        //        findKthLargest();
-        //        stringToInt();
-        //        anagram();
-        //        compression();
-        //        longestStringRemoveChar();
-        phone();
+        twoSum();
+    }
+
+    private static void twoSum() {
+        TwoSum sum = new TwoSum();
+        int[] nums = {3, 3};
+        int target = 6;
+        System.out.println(Arrays.toString(sum.twoSum(nums, target)));
     }
 
     private static void phone() {
