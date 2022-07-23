@@ -13,7 +13,11 @@ import sum.TwoSum;
 public class Main {
 
     public static void main(String[] args) {
-        threeSum();
+        pow();
+    }
+
+    private static void pow() {
+        System.out.println(new Pow().myPow(2, -2147483648));
     }
 
     private static void threeSum() {
